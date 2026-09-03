@@ -1,0 +1,6 @@
+{
+  "name": "IPL Auction Simulator",
+  "description": "A gamified IPL Auction Simulator where you compete against 9 distinct AI-franchise strategies to build a 20-player championship squad with a 100 Crore budget.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
