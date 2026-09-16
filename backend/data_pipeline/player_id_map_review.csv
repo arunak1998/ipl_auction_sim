@@ -1,0 +1,155 @@
+auction_name,auction_role,auction_country,player_id,matched_registry_name,tier,confidence,note
+Axar Patel,ALL-ROUNDER,India,,,3-ambiguous,,"2 fuzzy candidates >= 93.0: AR Patel(93), PA Patel(93)"
+Rashid Khan,BOWLER,Afghanistan,,,3-ambiguous,,3 registry rows share this exact name; country didn't disambiguate
+Shahrukh Khan,ALL-ROUNDER,India,,,3-nomatch,,best fuzzy candidate only 92.9: M Shahrukh Khan
+Rinku Singh,BATTER,India,,,3-ambiguous,,"4 fuzzy candidates >= 93.0: RK Singh(93), RR Singh(93), RP Singh(93), KR Singh(93)"
+Varun Chakaravarthy,BOWLER,India,,,3-nomatch,,best fuzzy candidate only 64.7: Varun Choudhary
+Andre Russell,ALL-ROUNDER,West Indies,,,3-ambiguous,,"2 fuzzy candidates >= 93.0: AD Russell(95), AK Russell(95)"
+Mayank Yadav,BOWLER,India,,,3-ambiguous,,"3 fuzzy candidates >= 93.0: Mayan Yadav(96), MP Yadav(93), LM Yadav(93)"
+Mohsin Khan,BOWLER,India,,,3-ambiguous,,2 registry rows share this exact name; country didn't disambiguate
+Suryakumar Yadav,BATTER,India,,,3-ambiguous,,"3 fuzzy candidates >= 93.0: SU Yadav(93), SA Yadav(93), AS Yadav(93)"
+Hardik Pandya,ALL-ROUNDER,India,,,3-ambiguous,,"2 fuzzy candidates >= 93.0: KH Pandya(94), HH Pandya(94)"
+Rohit Sharma,BATTER,India,,,3-ambiguous,,2 registry rows share this exact name; country didn't disambiguate
+Prabhsimran Singh,WICKETKEEPER,India,,,3-ambiguous,,"3 fuzzy candidates >= 93.0: CP Singh(93), RP Singh(93), PM Singh(93)"
+Sanju Samson,WICKETKEEPER,India,,,3-nomatch,,best fuzzy candidate only 82.4: Q Sampson
+Liam Livingstone,ALL-ROUNDER,England,,,3-nomatch,,best fuzzy candidate only 81.5: LS Livingstone
+Mitchell Marsh,ALL-ROUNDER,Australia,,,3-nomatch,,best fuzzy candidate only 80.0: M Marais
+Quinton De Kock,WICKETKEEPER,South Africa,,,3-nomatch,,best fuzzy candidate only 75.0: Q de Kock
+Jitesh Sharma,WICKETKEEPER,India,,,3-ambiguous,,"3 fuzzy candidates >= 93.0: JM Sharma(94), R Sharma(88), I Sharma(88)"
+Wanindu Hasaranga,BOWLER,Sri Lanka,,,3-nomatch,,best fuzzy candidate only 81.8: WU Tharanga
+Karun Nair,BATTER,India,,,3-nomatch,,best fuzzy candidate only 92.3: KK Nair
+Abdul Samad,ALL-ROUNDER,India,,,3-ambiguous,,3 registry rows share this exact name; country didn't disambiguate
+Upendra Singh Yadav,WICKETKEEPER,India,,,3-ambiguous,,"2 fuzzy candidates >= 93.0: SA Yadav(88), UT Yadav(88)"
+Rasikh Dar,BOWLER,India,,,3-nomatch,,best fuzzy candidate only 76.9: RM Dagar
+Karn Sharma,BOWLER,India,,,3-ambiguous,,"3 fuzzy candidates >= 93.0: KV Sharma(94), KS Sharma(94), DK Sharma(94)"
+Mayank Agarawal,BATTER,India,,,3-nomatch,,best fuzzy candidate only 90.0: MA Agarwal
+Deepak Chahar,BOWLER,India,,,3-ambiguous,,"2 fuzzy candidates >= 93.0: DL Chahar(94), RD Chahar(94)"
+Ricky Bhui,BATTER,India,,,3-nomatch,,best fuzzy candidate only 92.3: RK Bhui
+Swastik Chhikara,BATTER,India,,,3-nomatch,,best fuzzy candidate only 70.0: MSR Charan
+Shubham Dubey,BATTER,India,,,3-ambiguous,,"3 fuzzy candidates >= 93.0: SR Dubey(93), SB Dubey(93), S Dube(92)"
+Mohd. Arshad Khan,ALL-ROUNDER,India,,,3-nomatch,,best fuzzy candidate only 87.5: Maaz Khan
+Anukul Roy,ALL-ROUNDER,India,,,3-nomatch,,best fuzzy candidate only 90.9: BA Roy
+Avanish Aravelly,WICKETKEEPER,India,,,3-nomatch,,best fuzzy candidate only 70.0: A Karvelas
+Vansh Bedi,WICKETKEEPER,India,,,3-nomatch,,best fuzzy candidate only 61.5: AS Bedi
+Gurnoor Singh Brar,BOWLER,India,,,3-nomatch,,best fuzzy candidate only 80.0: Gurnoor Brar
+Prince Choudhary,BOWLER,India,,,3-nomatch,,best fuzzy candidate only 87.0: MD Choudhary
+Digvesh Singh,BOWLER,India,,,3-nomatch,,best fuzzy candidate only 85.7: F Singh
+Jhathavedh Subramanyan,BOWLER,India,,,3-nomatch,,best fuzzy candidate only 73.3: Subramanian Anand
+Rilee Rossouw,BATTER,South Africa,,,3-nomatch,,best fuzzy candidate only 73.7: RR Rossouw
+Kusal Perera,WICKETKEEPER,Sri Lanka,,,3-ambiguous,,"2 fuzzy candidates >= 93.0: AK Perera(94), MDK Perera(89)"
+Umesh Yadav,BOWLER,India,,,3-ambiguous,,"2 fuzzy candidates >= 93.0: SU Yadav(93), UT Yadav(93)"
+Zahir Khan Pakten,BOWLER,Afghanistan,,,3-nomatch,,best fuzzy candidate only 74.1: Zahir Khan
+Priyam Garg,BATTER,India,,,3-nomatch,,best fuzzy candidate only 92.3: PK Garg
+Harnoor Pannu,BATTER,India,,,3-nomatch,,best fuzzy candidate only 66.7: Arpit Pannu
+Andre Siddarth,BATTER,India,,,3-nomatch,,best fuzzy candidate only 85.7: M Siddharth
+Yudhvir Charak,ALL-ROUNDER,India,,,3-nomatch,,best fuzzy candidate only 70.6: YR Sharma
+Arshin Kulkarni,ALL-ROUNDER,India,,,3-ambiguous,,"2 fuzzy candidates >= 93.0: AA Kulkarni(95), DS Kulkarni(86)"
+Aryaman Singh Dhaliwal,WICKETKEEPER,India,,,3-nomatch,,best fuzzy candidate only 66.7: AS Dale
+Sanskar Rawat,WICKETKEEPER,India,,,3-nomatch,,best fuzzy candidate only 80.0: Shankar Rana
+Money Grewal,BOWLER,India,,,3-nomatch,,best fuzzy candidate only 77.8: MA Agarwal
+Shreyas Chavan,BOWLER,India,,,3-nomatch,,best fuzzy candidate only 77.8: MSR Charan
+Roshan Waghsare,BOWLER,India,,,3-nomatch,,best fuzzy candidate only 69.0: Akshay Wakhare
+Bailapudi Yeswanth,BOWLER,India,,,3-nomatch,,best fuzzy candidate only 73.7: B Sumanth
+Gus Atkinson,ALL-ROUNDER,England,,,3-nomatch,,best fuzzy candidate only 72.7: AAP Atkinson
+Ollie Pope,WICKETKEEPER,England,,,3-nomatch,,best fuzzy candidate only 92.3: OJ Pope
+Kuldeep Sen,BOWLER,India,,,3-nomatch,,best fuzzy candidate only 90.9: KR Sen
+Sachin Dhas,BATTER,India,,,3-nomatch,,best fuzzy candidate only 83.3: SC Das
+Leus Du Plooy,BATTER,England,,,3-nomatch,,best fuzzy candidate only 83.3: JL du Plooy
+Shoun Roger,BATTER,India,,,3-nomatch,,best fuzzy candidate only 87.5: TS Rogers
+Vicky Ostwal,ALL-ROUNDER,India,,,3-nomatch,,best fuzzy candidate only 63.2: YV Takawale
+Dinesh Bana,WICKETKEEPER,India,,,3-nomatch,,best fuzzy candidate only 92.3: DB Bana
+Ajitesh Guruswamy,WICKETKEEPER,India,,,3-nomatch,,best fuzzy candidate only 69.2: G Ajitesh
+Shrijith Krishnan,WICKETKEEPER,India,,,3-nomatch,,best fuzzy candidate only 69.0: K L Shrijith
+Arpit Guleria,BOWLER,India,,,3-nomatch,,best fuzzy candidate only 70.6: A Dulara
+Nishanth Saranu,BOWLER,India,,,3-nomatch,,best fuzzy candidate only 75.0: N Sharma
+Prithviraj Yarra,BOWLER,India,,,3-nomatch,,best fuzzy candidate only 82.8: Y Prithvi Raj
+Shubham Agrawal,BOWLER,India,,,3-nomatch,,best fuzzy candidate only 84.2: SS Agarwal
+Jass Inder Baidwan,BOWLER,India,,,3-nomatch,,best fuzzy candidate only 63.2: S Baliyan
+Saumy Pandey,BOWLER,India,,,3-nomatch,,best fuzzy candidate only 70.6: MK Pandey
+Rassie Van Der Dussen,BATTER,South Africa,,,3-nomatch,,best fuzzy candidate only 84.2: HE van der Dussen
+Sarfaraz Khan,ALL-ROUNDER,India,,,3-nomatch,,best fuzzy candidate only 92.3: SF Khan
+Matthew Short,ALL-ROUNDER,Australia,,,3-ambiguous,,"2 fuzzy candidates >= 93.0: MW Short(93), DJM Short(88)"
+Jhye Richardson,BOWLER,Australia,,,3-ambiguous,,"2 fuzzy candidates >= 93.0: JA Richardson(96), EJ Richardson(96)"
+Sumeet Verma,BATTER,India,,,3-nomatch,,best fuzzy candidate only 85.7: A Verma
+Emanjot Chahal,ALL-ROUNDER,India,,,3-nomatch,,best fuzzy candidate only 82.4: YS Chahal
+Manvanth Kumar L,ALL-ROUNDER,India,,,3-nomatch,,best fuzzy candidate only 71.0: Prashanth Kumar
+S. Rithik Easwaran,WICKETKEEPER,India,,,3-nomatch,,best fuzzy candidate only 72.7: AR Easwaran
+Pradosh Paul,WICKETKEEPER,India,,,3-nomatch,,best fuzzy candidate only 76.9: CK Paul
+Karteek Sharma,WICKETKEEPER,India,,,3-ambiguous,,"3 fuzzy candidates >= 93.0: KV Sharma(94), KS Sharma(94), DK Sharma(94)"
+Tejasvi Singh,WICKETKEEPER,India,,,3-nomatch,,best fuzzy candidate only 80.0: VK Singh
+Siddharth Yadav,WICKETKEEPER,India,,,3-ambiguous,,"3 fuzzy candidates >= 93.0: SU Yadav(93), SA Yadav(93), AS Yadav(93)"
+Divesh Sharma,BOWLER,India,,,3-ambiguous,,"3 fuzzy candidates >= 93.0: DK Sharma(94), I Sharma(88), R Sharma(88)"
+Naman Tiwari,BOWLER,India,,,3-nomatch,,best fuzzy candidate only 87.5: M Tiwari
+Kunal Singh Chibb,BOWLER,India,,,3-nomatch,,best fuzzy candidate only 66.7: Kukna Ajay Singh
+Deepak Devadiga,BOWLER,India,,,3-nomatch,,best fuzzy candidate only 70.0: JD Vandiar
+Ramesh Prasad,BOWLER,India,,,3-nomatch,,best fuzzy candidate only 70.6: T Prashan
+Tejpreet Singh,BOWLER,India,,,3-nomatch,,best fuzzy candidate only 80.0: VK Singh
+Musaif Ajaz,BATTER,India,,,3-nomatch,,best fuzzy candidate only 66.7: Saif Badar
+Akhil Rawat,BATTER,India,,,3-nomatch,,best fuzzy candidate only 85.7: D Rawat
+Prateek Yadav,BATTER,India,,,3-ambiguous,,"2 fuzzy candidates >= 93.0: PR Yadav(93), MP Yadav(93)"
+Abdul Bazith,ALL-ROUNDER,India,,,3-nomatch,,best fuzzy candidate only 91.7: Abdul Basith
+Sumit Kumar,ALL-ROUNDER,India,,,3-ambiguous,,2 registry rows share this exact name; country didn't disambiguate
+Hardik Raj,ALL-ROUNDER,India,,,3-nomatch,,best fuzzy candidate only 78.3: Hardik Rathod
+M. Ajnas,WICKETKEEPER,India,,,3-nomatch,,best fuzzy candidate only 75.0: M Abinash
+Unmukt Chand,WICKETKEEPER,USA,,,3-nomatch,,best fuzzy candidate only 87.5: UBT Chand
+Muhammed Khan,WICKETKEEPER,India,,,3-nomatch,,best fuzzy candidate only 83.3: Z Khan
+Baltej Dhanda,BOWLER,India,,,3-nomatch,,best fuzzy candidate only 75.0: AB Dinda
+Ravi Kumar,BOWLER,India,,,3-ambiguous,,2 registry rows share the abbreviated form 'r kumar'
+Aradhya Shukla,BOWLER,India,,,3-ambiguous,,2 registry rows share the abbreviated form 'a shukla'
+Dushan Hemantha,ALL-ROUNDER,Sri Lanka,,,3-nomatch,,best fuzzy candidate only 76.2: D Hemananda
+Pyla Avinash,BATTER,India,,,3-nomatch,,best fuzzy candidate only 80.0: Avinash Yadav
+Kiran Chormale,BATTER,India,,,3-nomatch,,best fuzzy candidate only 66.7: V Chopra
+Ashish Dahariya,BATTER,India,,,3-nomatch,,best fuzzy candidate only 74.1: Ashish Thapa
+Tushar Raheja,BATTER,India,,,3-nomatch,,best fuzzy candidate only 70.6: T Prashan
+Raj Limbani,ALL-ROUNDER,India,,,3-nomatch,,best fuzzy candidate only 70.6: RD Banik
+Sayed Irfan Aftab,BOWLER,India,,,3-nomatch,,best fuzzy candidate only 66.7: Aftab Alam
+Anirudh Chowdhary,BOWLER,India,,,3-nomatch,,best fuzzy candidate only 90.9: A Choudhary
+Venkata Satyanarayana Penmetsa,BOWLER,India,,,3-nomatch,,best fuzzy candidate only 0.0: none
+Yeddala Reddy,BOWLER,India,,,3-nomatch,,best fuzzy candidate only 66.7: PA Reddy
+Atharva Kale,BATTER,India,,,3-nomatch,,best fuzzy candidate only 80.0: Atharva Taide
+Abhishek Nair,BATTER,India,,,3-nomatch,,best fuzzy candidate only 92.3: AJ Nair
+Vishwanath Pratap Singh,BATTER,India,,,3-nomatch,,best fuzzy candidate only 87.5: VK Singh
+Nasir Lone,ALL-ROUNDER,India,,,3-nomatch,,best fuzzy candidate only 69.0: Lone Nasir Muzaffar
+Abid Mushtaq,ALL-ROUNDER,India,,,3-ambiguous,,2 registry rows share this exact name; country didn't disambiguate
+Faridoon Dawoodzai,BOWLER,Afghanistan,,,3-nomatch,,best fuzzy candidate only 73.7: J Dawood
+Junior Dala,ALL-ROUNDER,South Africa,,,3-nomatch,,best fuzzy candidate only 63.6: Sunil Salam
+Nangeyalia Kharote,ALL-ROUNDER,Afghanistan,,,3-nomatch,,best fuzzy candidate only 70.6: MA Khote
+James Anderson,BOWLER,England,,,3-ambiguous,,2 registry rows share the abbreviated form 'j anderson'
+Prayas Ray Barman,BATTER,India,,,3-nomatch,,best fuzzy candidate only 85.7: P Ray Barman
+Rituraj Sharma,BATTER,India,,,3-ambiguous,,2 registry rows share the abbreviated form 'r sharma'
+Kartik Chadha,ALL-ROUNDER,India,,,3-nomatch,,best fuzzy candidate only 76.2: SSK Chaudhary
+Ripal Patel,ALL-ROUNDER,India,,,3-ambiguous,,"4 fuzzy candidates >= 93.0: RH Patel(93), RK Patel(93), RV Patel(93), UR Patel(93)"
+Shubham Kapse,BOWLER,India,,,3-nomatch,,best fuzzy candidate only 71.4: Shubham Chaubey
+Atif Mushtaq,BOWLER,India,,,3-nomatch,,best fuzzy candidate only 85.7: Abid Mushtaq
+Chetan Sharma,BOWLER,India,,,3-ambiguous,,"2 fuzzy candidates >= 93.0: R Sharma(88), I Sharma(88)"
+Hilton Cartwright,ALL-ROUNDER,Australia,,,3-nomatch,,best fuzzy candidate only 92.3: HWR Cartwright
+Lahiru Kumara,BOWLER,Sri Lanka,,,3-nomatch,,best fuzzy candidate only 80.0: R Kumar
+Ajay Ahlawat,ALL-ROUNDER,India,,,3-nomatch,,best fuzzy candidate only 70.6: A Mahata
+Mayank Gusain,ALL-ROUNDER,India,,,3-nomatch,,best fuzzy candidate only 73.7: MSS Hussain
+Jalaj Saxena,ALL-ROUNDER,India,,,3-nomatch,,best fuzzy candidate only 92.3: Jalaj S Saxena
+Sanjay Yadav,ALL-ROUNDER,India,,,3-ambiguous,,"3 fuzzy candidates >= 93.0: SA Yadav(93), SU Yadav(93), AS Yadav(93)"
+Vishal Godara,BOWLER,India,,,3-nomatch,,best fuzzy candidate only 78.3: Vishal Das
+Samarth Nagraj,BOWLER,India,,,3-nomatch,,best fuzzy candidate only 75.0: S Narwal
+Abhishek Saini,BOWLER,India,,,3-nomatch,,best fuzzy candidate only 85.7: N Saini
+Vasu Vats,BOWLER,India,,,3-nomatch,,best fuzzy candidate only 62.5: AS Raut
+Umang Kumar,ALL-ROUNDER,India,,,3-ambiguous,,"2 fuzzy candidates >= 93.0: UR Kumar(93), P Kumar(86)"
+Mohamed Ali,ALL-ROUNDER,India,,,3-nomatch,,best fuzzy candidate only 90.9: AM Ali
+Auqib Dar,ALL-ROUNDER,India,,,3-nomatch,,best fuzzy candidate only 76.9: A Dulara
+Uday Saharan,ALL-ROUNDER,India,,,3-nomatch,,best fuzzy candidate only 75.0: W Sahan
+Ayush Vartak,ALL-ROUNDER,India,,,3-nomatch,,best fuzzy candidate only 66.7: Anish Charak
+Sumit Kumar Beniwal,ALL-ROUNDER,India,,,3-nomatch,,best fuzzy candidate only 73.3: Sumit Kumar
+Digvijay Deshmukh,ALL-ROUNDER,India,,,3-nomatch,,best fuzzy candidate only 76.2: DR Deshmukh
+Lakshay Jain,ALL-ROUNDER,India,,,3-nomatch,,best fuzzy candidate only 76.9: VL Jani
+Duan Jansen,ALL-ROUNDER,South Africa,,,3-ambiguous,,2 registry rows share the abbreviated form 'd jansen'
+Kritagya Singh,ALL-ROUNDER,India,,,3-ambiguous,,"3 fuzzy candidates >= 93.0: RK Singh(93), GK Singh(93), NK Singh(93)"
+P. Vignesh,ALL-ROUNDER,India,,,3-nomatch,,best fuzzy candidate only 69.6: Vignesh Kannan
+Sabhay Chadha,ALL-ROUNDER,India,,,3-nomatch,,best fuzzy candidate only 82.4: YS Chahal
+Ben Howell,ALL-ROUNDER,England,,,3-nomatch,,best fuzzy candidate only 88.9: BAC Howell
+Rohan Rana,ALL-ROUNDER,India,,,3-nomatch,,best fuzzy candidate only 83.3: N Rana
+Arjun Azad,ALL-ROUNDER,India,,,3-nomatch,,best fuzzy candidate only 71.4: Saad Ali
+Shubham Garhwal,ALL-ROUNDER,India,,,3-nomatch,,best fuzzy candidate only 84.2: SS Agarwal
+Tejasvi Jaiswal,ALL-ROUNDER,India,,,3-nomatch,,best fuzzy candidate only 80.0: YBK Jaiswal
+Prashant Chauhan,ALL-ROUNDER,India,,,3-nomatch,,best fuzzy candidate only 88.9: D Chauhan
+Yash Dabas,ALL-ROUNDER,India,,,3-nomatch,,best fuzzy candidate only 80.0: Yash Dayal
+Dhruv Kaushik,ALL-ROUNDER,India,,,3-nomatch,,best fuzzy candidate only 84.2: AJ Kaushik
+Vijay Yadav,ALL-ROUNDER,India,,,3-nomatch,,best fuzzy candidate only 85.7: K Yadav

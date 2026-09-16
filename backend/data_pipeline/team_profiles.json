@@ -1,0 +1,1419 @@
+[
+  {
+    "team_id": "csk",
+    "team_name": "Chennai Super Kings",
+    "budget_cr": 125.0,
+    "data_confidence": {
+      "years_active_in_data": [
+        2011,
+        2012,
+        2013,
+        2014,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "auction_records_used_for_behavior": 51,
+      "note": "Fewer years/records (e.g. Gujarat Titans, Lucknow Super Giants, both 2022+) means a less statistically reliable behavioral profile.",
+      "pace_spin_coverage_pct": 65.1,
+      "pace_spin_note": "pace_spin_spend_pct is lower-confidence than role_spend_distribution_pct: the historical file has no bowling-style column, so this is a best-effort match against the CURRENT auction pool's real style data by player name, covering only 65.1% of this team's historical bowling spend."
+    },
+    "role_spend_distribution_pct": {
+      "All-Rounder": 48.0,
+      "Batter": 19.6,
+      "Bowler": 27.7,
+      "Wicketkeeper": 4.7
+    },
+    "pace_spin_spend_pct": {
+      "Pace": 46.1,
+      "Spin": 53.9
+    },
+    "overseas_spend_pct": 63.4,
+    "avg_price_to_base_multiplier": 8.39,
+    "avg_price_paid_cr": 5.11,
+    "marquee_affinity_pct": 27.9,
+    "current_squad": {
+      "as_of_year": 2026,
+      "built_from_mega_auction_year": 2025,
+      "caveat": "Players from the most recent mega-auction year plus any mini-auction transactions since, deduplicated to each player's latest transaction. May still miss an already-retained player who had zero transactions recorded across this whole window.",
+      "players": [
+        {
+          "player_name": "Ruturaj Gaikwad",
+          "role": "Batter",
+          "type": "Retained",
+          "year_acquired": 2025,
+          "price_cr": 18.0
+        },
+        {
+          "player_name": "Ravindra Jadeja",
+          "role": "All-Rounder",
+          "type": "Retained",
+          "year_acquired": 2025,
+          "price_cr": 18.0
+        },
+        {
+          "player_name": "Prashant Veer",
+          "role": "All-Rounder",
+          "type": "Auction",
+          "year_acquired": 2026,
+          "price_cr": 14.2
+        },
+        {
+          "player_name": "Kartik Sharma",
+          "role": "Batter",
+          "type": "Auction",
+          "year_acquired": 2026,
+          "price_cr": 14.2
+        },
+        {
+          "player_name": "Matheesha Pathirana",
+          "role": "Bowler",
+          "type": "Retained",
+          "year_acquired": 2025,
+          "price_cr": 13.0
+        },
+        {
+          "player_name": "Shivam Dube",
+          "role": "All-Rounder",
+          "type": "Retained",
+          "year_acquired": 2025,
+          "price_cr": 12.0
+        },
+        {
+          "player_name": "Noor Ahmad",
+          "role": "Bowler",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 10.0
+        },
+        {
+          "player_name": "Ravichandran Ashwin",
+          "role": "All-Rounder",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 9.75
+        },
+        {
+          "player_name": "Devon Conway",
+          "role": "Batter",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 6.25
+        },
+        {
+          "player_name": "Khaleel Ahmed",
+          "role": "Bowler",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 4.8
+        },
+        {
+          "player_name": "MS Dhoni",
+          "role": "Batter",
+          "type": "Retained",
+          "year_acquired": 2025,
+          "price_cr": 4.0
+        },
+        {
+          "player_name": "Rachin Ravindra",
+          "role": "All-Rounder",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 4.0
+        },
+        {
+          "player_name": "Rahul Tripathi",
+          "role": "Batter",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 3.4
+        },
+        {
+          "player_name": "Anshul Kamboj",
+          "role": "All-Rounder",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 3.4
+        },
+        {
+          "player_name": "Sam Curran",
+          "role": "All-Rounder",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 2.4
+        },
+        {
+          "player_name": "Gurjapneet Singh",
+          "role": "Bowler",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 2.2
+        },
+        {
+          "player_name": "Nathan Ellis",
+          "role": "Bowler",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 2.0
+        }
+      ],
+      "player_count": 17,
+      "total_spend_cr": 141.6,
+      "retained_spend_cr": 65.0
+    }
+  },
+  {
+    "team_id": "mi",
+    "team_name": "Mumbai Indians",
+    "budget_cr": 125.0,
+    "data_confidence": {
+      "years_active_in_data": [
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "auction_records_used_for_behavior": 51,
+      "note": "Fewer years/records (e.g. Gujarat Titans, Lucknow Super Giants, both 2022+) means a less statistically reliable behavioral profile.",
+      "pace_spin_coverage_pct": 63.9,
+      "pace_spin_note": "pace_spin_spend_pct is lower-confidence than role_spend_distribution_pct: the historical file has no bowling-style column, so this is a best-effort match against the CURRENT auction pool's real style data by player name, covering only 63.9% of this team's historical bowling spend."
+    },
+    "role_spend_distribution_pct": {
+      "All-Rounder": 37.9,
+      "Batter": 12.8,
+      "Bowler": 38.4,
+      "Wicketkeeper": 11.0
+    },
+    "pace_spin_spend_pct": {
+      "Pace": 38.0,
+      "Spin": 62.0
+    },
+    "overseas_spend_pct": 80.0,
+    "avg_price_to_base_multiplier": 6.69,
+    "avg_price_paid_cr": 4.52,
+    "marquee_affinity_pct": 27.6,
+    "current_squad": {
+      "as_of_year": 2025,
+      "built_from_mega_auction_year": 2025,
+      "caveat": "Players from the most recent mega-auction year plus any mini-auction transactions since, deduplicated to each player's latest transaction. May still miss an already-retained player who had zero transactions recorded across this whole window.",
+      "players": [
+        {
+          "player_name": "Jasprit Bumrah",
+          "role": "Bowler",
+          "type": "Retained",
+          "year_acquired": 2025,
+          "price_cr": 18.0
+        },
+        {
+          "player_name": "Suryakumar Yadav",
+          "role": "Batter",
+          "type": "Retained",
+          "year_acquired": 2025,
+          "price_cr": 16.35
+        },
+        {
+          "player_name": "Hardik Pandya",
+          "role": "All-Rounder",
+          "type": "Retained",
+          "year_acquired": 2025,
+          "price_cr": 16.35
+        },
+        {
+          "player_name": "Rohit Sharma",
+          "role": "Batter",
+          "type": "Retained",
+          "year_acquired": 2025,
+          "price_cr": 16.3
+        },
+        {
+          "player_name": "Trent Boult",
+          "role": "Bowler",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 12.5
+        },
+        {
+          "player_name": "Deepak Chahar",
+          "role": "Bowler",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 9.25
+        },
+        {
+          "player_name": "Tilak Varma",
+          "role": "All-Rounder",
+          "type": "Retained",
+          "year_acquired": 2025,
+          "price_cr": 8.0
+        },
+        {
+          "player_name": "Will Jacks",
+          "role": "All-Rounder",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 5.25
+        },
+        {
+          "player_name": "Naman Dhir",
+          "role": "All-Rounder",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 5.25
+        },
+        {
+          "player_name": "AM Ghazanfar",
+          "role": "Bowler",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 4.8
+        },
+        {
+          "player_name": "Mitchell Santner",
+          "role": "All-Rounder",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 2.0
+        }
+      ],
+      "player_count": 11,
+      "total_spend_cr": 114.05,
+      "retained_spend_cr": 75.0
+    }
+  },
+  {
+    "team_id": "rcb",
+    "team_name": "Royal Challengers Bengaluru",
+    "budget_cr": 125.0,
+    "data_confidence": {
+      "years_active_in_data": [
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "auction_records_used_for_behavior": 70,
+      "note": "Fewer years/records (e.g. Gujarat Titans, Lucknow Super Giants, both 2022+) means a less statistically reliable behavioral profile.",
+      "pace_spin_coverage_pct": 65.7,
+      "pace_spin_note": "pace_spin_spend_pct is lower-confidence than role_spend_distribution_pct: the historical file has no bowling-style column, so this is a best-effort match against the CURRENT auction pool's real style data by player name, covering only 65.7% of this team's historical bowling spend."
+    },
+    "role_spend_distribution_pct": {
+      "All-Rounder": 42.6,
+      "Batter": 14.8,
+      "Bowler": 35.7,
+      "Wicketkeeper": 7.0
+    },
+    "pace_spin_spend_pct": {
+      "Pace": 64.7,
+      "Spin": 35.3
+    },
+    "overseas_spend_pct": 76.3,
+    "avg_price_to_base_multiplier": 6.44,
+    "avg_price_paid_cr": 5.23,
+    "marquee_affinity_pct": 18.5,
+    "current_squad": {
+      "as_of_year": 2026,
+      "built_from_mega_auction_year": 2025,
+      "caveat": "Players from the most recent mega-auction year plus any mini-auction transactions since, deduplicated to each player's latest transaction. May still miss an already-retained player who had zero transactions recorded across this whole window.",
+      "players": [
+        {
+          "player_name": "Virat Kohli",
+          "role": "Batter",
+          "type": "Retained",
+          "year_acquired": 2025,
+          "price_cr": 21.0
+        },
+        {
+          "player_name": "Josh Hazlewood",
+          "role": "Bowler",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 12.5
+        },
+        {
+          "player_name": "Phil Salt",
+          "role": "Batter",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 11.5
+        },
+        {
+          "player_name": "Rajat Patidar",
+          "role": "Batter",
+          "type": "Retained",
+          "year_acquired": 2025,
+          "price_cr": 11.0
+        },
+        {
+          "player_name": "Jitesh Sharma",
+          "role": "Batter",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 11.0
+        },
+        {
+          "player_name": "Bhuvneshwar Kumar",
+          "role": "Bowler",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 10.75
+        },
+        {
+          "player_name": "Liam Livingstone",
+          "role": "All-Rounder",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 8.75
+        },
+        {
+          "player_name": "Venkatesh Iyer",
+          "role": "All-Rounder",
+          "type": "Auction",
+          "year_acquired": 2026,
+          "price_cr": 7.0
+        },
+        {
+          "player_name": "Rasikh Salam",
+          "role": "Bowler",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 6.0
+        },
+        {
+          "player_name": "Krunal Pandya",
+          "role": "All-Rounder",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 5.75
+        },
+        {
+          "player_name": "Yash Dayal",
+          "role": "Bowler",
+          "type": "Retained",
+          "year_acquired": 2025,
+          "price_cr": 5.0
+        },
+        {
+          "player_name": "Tim David",
+          "role": "All-Rounder",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 3.0
+        },
+        {
+          "player_name": "Jacob Bethell",
+          "role": "All-Rounder",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 2.6
+        },
+        {
+          "player_name": "Suyash Sharma",
+          "role": "Bowler",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 2.6
+        },
+        {
+          "player_name": "Devdutt Padikkal",
+          "role": "Batter",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 2.0
+        }
+      ],
+      "player_count": 15,
+      "total_spend_cr": 120.45,
+      "retained_spend_cr": 37.0
+    }
+  },
+  {
+    "team_id": "kkr",
+    "team_name": "Kolkata Knight Riders",
+    "budget_cr": 125.0,
+    "data_confidence": {
+      "years_active_in_data": [
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "auction_records_used_for_behavior": 52,
+      "note": "Fewer years/records (e.g. Gujarat Titans, Lucknow Super Giants, both 2022+) means a less statistically reliable behavioral profile.",
+      "pace_spin_coverage_pct": 79.3,
+      "pace_spin_note": "pace_spin_spend_pct is lower-confidence than role_spend_distribution_pct: the historical file has no bowling-style column, so this is a best-effort match against the CURRENT auction pool's real style data by player name, covering only 79.3% of this team's historical bowling spend."
+    },
+    "role_spend_distribution_pct": {
+      "All-Rounder": 45.9,
+      "Batter": 19.2,
+      "Bowler": 31.1,
+      "Wicketkeeper": 3.7
+    },
+    "pace_spin_spend_pct": {
+      "Pace": 66.4,
+      "Spin": 33.6
+    },
+    "overseas_spend_pct": 75.0,
+    "avg_price_to_base_multiplier": 6.59,
+    "avg_price_paid_cr": 6.12,
+    "marquee_affinity_pct": 33.7,
+    "current_squad": {
+      "as_of_year": 2026,
+      "built_from_mega_auction_year": 2025,
+      "caveat": "Players from the most recent mega-auction year plus any mini-auction transactions since, deduplicated to each player's latest transaction. May still miss an already-retained player who had zero transactions recorded across this whole window.",
+      "players": [
+        {
+          "player_name": "Cameron Green",
+          "role": "All-Rounder",
+          "type": "Auction",
+          "year_acquired": 2026,
+          "price_cr": 25.2
+        },
+        {
+          "player_name": "Venkatesh Iyer",
+          "role": "All-Rounder",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 23.75
+        },
+        {
+          "player_name": "Matheesha Pathirana",
+          "role": "Bowler",
+          "type": "Auction",
+          "year_acquired": 2026,
+          "price_cr": 18.0
+        },
+        {
+          "player_name": "Andre Russell",
+          "role": "All-Rounder",
+          "type": "Retained",
+          "year_acquired": 2025,
+          "price_cr": 12.0
+        },
+        {
+          "player_name": "Sunil Narine",
+          "role": "Bowler",
+          "type": "Retained",
+          "year_acquired": 2025,
+          "price_cr": 12.0
+        },
+        {
+          "player_name": "Varun Chakravarthy",
+          "role": "All-Rounder",
+          "type": "Retained",
+          "year_acquired": 2025,
+          "price_cr": 12.0
+        },
+        {
+          "player_name": "Anrich Nortje",
+          "role": "Bowler",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 6.5
+        },
+        {
+          "player_name": "Harshit Rana",
+          "role": "Bowler",
+          "type": "Retained",
+          "year_acquired": 2025,
+          "price_cr": 4.0
+        },
+        {
+          "player_name": "Ramandeep Singh",
+          "role": "All-Rounder",
+          "type": "Retained",
+          "year_acquired": 2025,
+          "price_cr": 4.0
+        },
+        {
+          "player_name": "Quinton de Kock",
+          "role": "Batter",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 3.6
+        },
+        {
+          "player_name": "Angkrish Raghuvanshi",
+          "role": "Batter",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 3.0
+        },
+        {
+          "player_name": "Spencer Johnson",
+          "role": "Bowler",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 2.8
+        },
+        {
+          "player_name": "Moeen Ali",
+          "role": "All-Rounder",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 2.0
+        },
+        {
+          "player_name": "Rahmanullah Gurbaz",
+          "role": "Batter",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 2.0
+        }
+      ],
+      "player_count": 14,
+      "total_spend_cr": 130.85,
+      "retained_spend_cr": 44.0
+    }
+  },
+  {
+    "team_id": "srh",
+    "team_name": "Sunrisers Hyderabad",
+    "budget_cr": 125.0,
+    "data_confidence": {
+      "years_active_in_data": [
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "auction_records_used_for_behavior": 51,
+      "note": "Fewer years/records (e.g. Gujarat Titans, Lucknow Super Giants, both 2022+) means a less statistically reliable behavioral profile.",
+      "pace_spin_coverage_pct": 78.8,
+      "pace_spin_note": "pace_spin_spend_pct is lower-confidence than role_spend_distribution_pct: the historical file has no bowling-style column, so this is a best-effort match against the CURRENT auction pool's real style data by player name, covering only 78.8% of this team's historical bowling spend."
+    },
+    "role_spend_distribution_pct": {
+      "All-Rounder": 23.4,
+      "Batter": 31.0,
+      "Bowler": 36.5,
+      "Wicketkeeper": 9.1
+    },
+    "pace_spin_spend_pct": {
+      "Pace": 59.9,
+      "Spin": 40.1
+    },
+    "overseas_spend_pct": 56.8,
+    "avg_price_to_base_multiplier": 6.6,
+    "avg_price_paid_cr": 5.06,
+    "marquee_affinity_pct": 25.9,
+    "current_squad": {
+      "as_of_year": 2025,
+      "built_from_mega_auction_year": 2025,
+      "caveat": "Players from the most recent mega-auction year plus any mini-auction transactions since, deduplicated to each player's latest transaction. May still miss an already-retained player who had zero transactions recorded across this whole window.",
+      "players": [
+        {
+          "player_name": "Heinrich Klaasen",
+          "role": "Batter",
+          "type": "Retained",
+          "year_acquired": 2025,
+          "price_cr": 23.0
+        },
+        {
+          "player_name": "Pat Cummins",
+          "role": "All-Rounder",
+          "type": "Retained",
+          "year_acquired": 2025,
+          "price_cr": 18.0
+        },
+        {
+          "player_name": "Abhishek Sharma",
+          "role": "All-Rounder",
+          "type": "Retained",
+          "year_acquired": 2025,
+          "price_cr": 14.0
+        },
+        {
+          "player_name": "Travis Head",
+          "role": "Batter",
+          "type": "Retained",
+          "year_acquired": 2025,
+          "price_cr": 14.0
+        },
+        {
+          "player_name": "Ishan Kishan",
+          "role": "Batter",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 11.25
+        },
+        {
+          "player_name": "Mohammed Shami",
+          "role": "Bowler",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 10.0
+        },
+        {
+          "player_name": "Harshal Patel",
+          "role": "All-Rounder",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 8.0
+        },
+        {
+          "player_name": "Nitish Kumar Reddy",
+          "role": "All-Rounder",
+          "type": "Retained",
+          "year_acquired": 2025,
+          "price_cr": 6.0
+        },
+        {
+          "player_name": "Abhinav Manohar",
+          "role": "Batter",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 3.2
+        },
+        {
+          "player_name": "Rahul Chahar",
+          "role": "Bowler",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 3.2
+        },
+        {
+          "player_name": "Adam Zampa",
+          "role": "Bowler",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 2.4
+        }
+      ],
+      "player_count": 11,
+      "total_spend_cr": 113.05,
+      "retained_spend_cr": 75.0
+    }
+  },
+  {
+    "team_id": "rr",
+    "team_name": "Rajasthan Royals",
+    "budget_cr": 125.0,
+    "data_confidence": {
+      "years_active_in_data": [
+        2011,
+        2012,
+        2013,
+        2014,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "auction_records_used_for_behavior": 44,
+      "note": "Fewer years/records (e.g. Gujarat Titans, Lucknow Super Giants, both 2022+) means a less statistically reliable behavioral profile.",
+      "pace_spin_coverage_pct": 66.6,
+      "pace_spin_note": "pace_spin_spend_pct is lower-confidence than role_spend_distribution_pct: the historical file has no bowling-style column, so this is a best-effort match against the CURRENT auction pool's real style data by player name, covering only 66.6% of this team's historical bowling spend."
+    },
+    "role_spend_distribution_pct": {
+      "All-Rounder": 31.5,
+      "Batter": 23.4,
+      "Bowler": 39.2,
+      "Wicketkeeper": 5.8
+    },
+    "pace_spin_spend_pct": {
+      "Pace": 58.8,
+      "Spin": 41.2
+    },
+    "overseas_spend_pct": 54.1,
+    "avg_price_to_base_multiplier": 6.75,
+    "avg_price_paid_cr": 4.99,
+    "marquee_affinity_pct": 26.8,
+    "current_squad": {
+      "as_of_year": 2026,
+      "built_from_mega_auction_year": 2025,
+      "caveat": "Players from the most recent mega-auction year plus any mini-auction transactions since, deduplicated to each player's latest transaction. May still miss an already-retained player who had zero transactions recorded across this whole window.",
+      "players": [
+        {
+          "player_name": "Sanju Samson",
+          "role": "Batter",
+          "type": "Retained",
+          "year_acquired": 2025,
+          "price_cr": 18.0
+        },
+        {
+          "player_name": "Yashasvi Jaiswal",
+          "role": "All-Rounder",
+          "type": "Retained",
+          "year_acquired": 2025,
+          "price_cr": 18.0
+        },
+        {
+          "player_name": "Riyan Parag",
+          "role": "All-Rounder",
+          "type": "Retained",
+          "year_acquired": 2025,
+          "price_cr": 14.0
+        },
+        {
+          "player_name": "Dhruv Jurel",
+          "role": "Batter",
+          "type": "Retained",
+          "year_acquired": 2025,
+          "price_cr": 14.0
+        },
+        {
+          "player_name": "Shimron Hetmyer",
+          "role": "Batter",
+          "type": "Retained",
+          "year_acquired": 2025,
+          "price_cr": 11.0
+        },
+        {
+          "player_name": "Ravi Bishnoi",
+          "role": "Bowler",
+          "type": "Auction",
+          "year_acquired": 2026,
+          "price_cr": 7.2
+        },
+        {
+          "player_name": "Tushar Deshpande",
+          "role": "Bowler",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 6.5
+        },
+        {
+          "player_name": "Wanindu Hasaranga",
+          "role": "Bowler",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 5.25
+        },
+        {
+          "player_name": "Maheesh Theekshana",
+          "role": "Bowler",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 4.4
+        },
+        {
+          "player_name": "Nitish Rana",
+          "role": "All-Rounder",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 4.2
+        },
+        {
+          "player_name": "Sandeep Sharma",
+          "role": "Bowler",
+          "type": "Retained",
+          "year_acquired": 2025,
+          "price_cr": 4.0
+        },
+        {
+          "player_name": "Fazalhaq Farooqi",
+          "role": "Bowler",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 2.0
+        }
+      ],
+      "player_count": 12,
+      "total_spend_cr": 108.55,
+      "retained_spend_cr": 79.0
+    }
+  },
+  {
+    "team_id": "dc",
+    "team_name": "Delhi Capitals",
+    "budget_cr": 125.0,
+    "data_confidence": {
+      "years_active_in_data": [
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "auction_records_used_for_behavior": 67,
+      "note": "Fewer years/records (e.g. Gujarat Titans, Lucknow Super Giants, both 2022+) means a less statistically reliable behavioral profile.",
+      "pace_spin_coverage_pct": 66.3,
+      "pace_spin_note": "pace_spin_spend_pct is lower-confidence than role_spend_distribution_pct: the historical file has no bowling-style column, so this is a best-effort match against the CURRENT auction pool's real style data by player name, covering only 66.3% of this team's historical bowling spend."
+    },
+    "role_spend_distribution_pct": {
+      "All-Rounder": 24.8,
+      "Batter": 34.6,
+      "Bowler": 31.4,
+      "Wicketkeeper": 9.2
+    },
+    "pace_spin_spend_pct": {
+      "Pace": 86.1,
+      "Spin": 13.9
+    },
+    "overseas_spend_pct": 66.7,
+    "avg_price_to_base_multiplier": 7.4,
+    "avg_price_paid_cr": 5.14,
+    "marquee_affinity_pct": 18.9,
+    "current_squad": {
+      "as_of_year": 2026,
+      "built_from_mega_auction_year": 2025,
+      "caveat": "Players from the most recent mega-auction year plus any mini-auction transactions since, deduplicated to each player's latest transaction. May still miss an already-retained player who had zero transactions recorded across this whole window.",
+      "players": [
+        {
+          "player_name": "Axar Patel",
+          "role": "All-Rounder",
+          "type": "Retained",
+          "year_acquired": 2025,
+          "price_cr": 16.5
+        },
+        {
+          "player_name": "KL Rahul",
+          "role": "Batter",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 14.0
+        },
+        {
+          "player_name": "Kuldeep Yadav",
+          "role": "Bowler",
+          "type": "Retained",
+          "year_acquired": 2025,
+          "price_cr": 13.25
+        },
+        {
+          "player_name": "Mitchell Starc",
+          "role": "Bowler",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 11.75
+        },
+        {
+          "player_name": "T Natarajan",
+          "role": "Bowler",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 10.75
+        },
+        {
+          "player_name": "Tristan Stubbs",
+          "role": "Batter",
+          "type": "Retained",
+          "year_acquired": 2025,
+          "price_cr": 10.0
+        },
+        {
+          "player_name": "Jake Fraser-McGurk",
+          "role": "Batter",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 9.0
+        },
+        {
+          "player_name": "Auqib Nabi Dar",
+          "role": "Bowler",
+          "type": "Auction",
+          "year_acquired": 2026,
+          "price_cr": 8.4
+        },
+        {
+          "player_name": "Mukesh Kumar",
+          "role": "Bowler",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 8.0
+        },
+        {
+          "player_name": "Harry Brook",
+          "role": "Batter",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 6.25
+        },
+        {
+          "player_name": "Abishek Porel",
+          "role": "Batter",
+          "type": "Retained",
+          "year_acquired": 2025,
+          "price_cr": 4.0
+        },
+        {
+          "player_name": "Ashutosh Sharma",
+          "role": "All-Rounder",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 3.8
+        },
+        {
+          "player_name": "Mohit Sharma",
+          "role": "Bowler",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 2.2
+        }
+      ],
+      "player_count": 13,
+      "total_spend_cr": 117.9,
+      "retained_spend_cr": 43.75
+    }
+  },
+  {
+    "team_id": "pbks",
+    "team_name": "Punjab Kings",
+    "budget_cr": 125.0,
+    "data_confidence": {
+      "years_active_in_data": [
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "auction_records_used_for_behavior": 72,
+      "note": "Fewer years/records (e.g. Gujarat Titans, Lucknow Super Giants, both 2022+) means a less statistically reliable behavioral profile.",
+      "pace_spin_coverage_pct": 80.1,
+      "pace_spin_note": "pace_spin_spend_pct is lower-confidence than role_spend_distribution_pct: the historical file has no bowling-style column, so this is a best-effort match against the CURRENT auction pool's real style data by player name, covering only 80.1% of this team's historical bowling spend."
+    },
+    "role_spend_distribution_pct": {
+      "All-Rounder": 36.1,
+      "Batter": 24.1,
+      "Bowler": 33.6,
+      "Wicketkeeper": 6.2
+    },
+    "pace_spin_spend_pct": {
+      "Pace": 62.9,
+      "Spin": 37.1
+    },
+    "overseas_spend_pct": 72.4,
+    "avg_price_to_base_multiplier": 7.56,
+    "avg_price_paid_cr": 5.86,
+    "marquee_affinity_pct": 22.6,
+    "current_squad": {
+      "as_of_year": 2025,
+      "built_from_mega_auction_year": 2025,
+      "caveat": "Players from the most recent mega-auction year plus any mini-auction transactions since, deduplicated to each player's latest transaction. May still miss an already-retained player who had zero transactions recorded across this whole window.",
+      "players": [
+        {
+          "player_name": "Shreyas Iyer",
+          "role": "Batter",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 26.75
+        },
+        {
+          "player_name": "Arshdeep Singh",
+          "role": "Bowler",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 18.0
+        },
+        {
+          "player_name": "Yuzvendra Chahal",
+          "role": "Bowler",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 18.0
+        },
+        {
+          "player_name": "Marcus Stoinis",
+          "role": "All-Rounder",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 11.0
+        },
+        {
+          "player_name": "Marco Jansen",
+          "role": "All-Rounder",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 7.0
+        },
+        {
+          "player_name": "Shashank Singh",
+          "role": "All-Rounder",
+          "type": "Retained",
+          "year_acquired": 2025,
+          "price_cr": 5.5
+        },
+        {
+          "player_name": "Glenn Maxwell",
+          "role": "All-Rounder",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 4.2
+        },
+        {
+          "player_name": "Nehal Wadhera",
+          "role": "Batter",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 4.2
+        },
+        {
+          "player_name": "Prabhsimran Singh",
+          "role": "Batter",
+          "type": "Retained",
+          "year_acquired": 2025,
+          "price_cr": 4.0
+        },
+        {
+          "player_name": "Priyansh Arya",
+          "role": "All-Rounder",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 3.8
+        },
+        {
+          "player_name": "Josh Inglis",
+          "role": "Batter",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 2.6
+        },
+        {
+          "player_name": "Azmatullah Omarzai",
+          "role": "All-Rounder",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 2.4
+        },
+        {
+          "player_name": "Lockie Ferguson",
+          "role": "Bowler",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 2.0
+        }
+      ],
+      "player_count": 13,
+      "total_spend_cr": 109.45,
+      "retained_spend_cr": 9.5
+    }
+  },
+  {
+    "team_id": "gt",
+    "team_name": "Gujarat Titans",
+    "budget_cr": 125.0,
+    "data_confidence": {
+      "years_active_in_data": [
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "auction_records_used_for_behavior": 19,
+      "note": "Fewer years/records (e.g. Gujarat Titans, Lucknow Super Giants, both 2022+) means a less statistically reliable behavioral profile.",
+      "pace_spin_coverage_pct": 94.3,
+      "pace_spin_note": "pace_spin_spend_pct is lower-confidence than role_spend_distribution_pct: the historical file has no bowling-style column, so this is a best-effort match against the CURRENT auction pool's real style data by player name, covering only 94.3% of this team's historical bowling spend."
+    },
+    "role_spend_distribution_pct": {
+      "All-Rounder": 17.6,
+      "Batter": 16.6,
+      "Bowler": 64.8,
+      "Wicketkeeper": 1.0
+    },
+    "pace_spin_spend_pct": {
+      "Pace": 77.3,
+      "Spin": 22.7
+    },
+    "overseas_spend_pct": 60.0,
+    "avg_price_to_base_multiplier": 7.68,
+    "avg_price_paid_cr": 6.46,
+    "marquee_affinity_pct": 47.9,
+    "current_squad": {
+      "as_of_year": 2025,
+      "built_from_mega_auction_year": 2025,
+      "caveat": "Players from the most recent mega-auction year plus any mini-auction transactions since, deduplicated to each player's latest transaction. May still miss an already-retained player who had zero transactions recorded across this whole window.",
+      "players": [
+        {
+          "player_name": "Rashid Khan",
+          "role": "Bowler",
+          "type": "Retained",
+          "year_acquired": 2025,
+          "price_cr": 18.0
+        },
+        {
+          "player_name": "Shubman Gill",
+          "role": "Batter",
+          "type": "Retained",
+          "year_acquired": 2025,
+          "price_cr": 16.5
+        },
+        {
+          "player_name": "Jos Buttler",
+          "role": "Batter",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 15.75
+        },
+        {
+          "player_name": "Mohammed Siraj",
+          "role": "Bowler",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 12.25
+        },
+        {
+          "player_name": "Kagiso Rabada",
+          "role": "Bowler",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 10.75
+        },
+        {
+          "player_name": "Prasidh Krishna",
+          "role": "Bowler",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 9.5
+        },
+        {
+          "player_name": "Sai Sudharsan",
+          "role": "All-Rounder",
+          "type": "Retained",
+          "year_acquired": 2025,
+          "price_cr": 8.5
+        },
+        {
+          "player_name": "Rahul Tewatia",
+          "role": "All-Rounder",
+          "type": "Retained",
+          "year_acquired": 2025,
+          "price_cr": 4.0
+        },
+        {
+          "player_name": "M Shahrukh Khan",
+          "role": "All-Rounder",
+          "type": "Retained",
+          "year_acquired": 2025,
+          "price_cr": 4.0
+        },
+        {
+          "player_name": "Washington Sundar",
+          "role": "All-Rounder",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 3.2
+        },
+        {
+          "player_name": "Sherfane Rutherford",
+          "role": "Batter",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 2.6
+        },
+        {
+          "player_name": "Gerald Coetzee",
+          "role": "Bowler",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 2.4
+        },
+        {
+          "player_name": "R Sai Kishore",
+          "role": "All-Rounder",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 2.0
+        }
+      ],
+      "player_count": 13,
+      "total_spend_cr": 109.45,
+      "retained_spend_cr": 51.0
+    }
+  },
+  {
+    "team_id": "lsg",
+    "team_name": "Lucknow Super Giants",
+    "budget_cr": 125.0,
+    "data_confidence": {
+      "years_active_in_data": [
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "auction_records_used_for_behavior": 17,
+      "note": "Fewer years/records (e.g. Gujarat Titans, Lucknow Super Giants, both 2022+) means a less statistically reliable behavioral profile.",
+      "pace_spin_coverage_pct": 90.2,
+      "pace_spin_note": "pace_spin_spend_pct is lower-confidence than role_spend_distribution_pct: the historical file has no bowling-style column, so this is a best-effort match against the CURRENT auction pool's real style data by player name, covering only 90.2% of this team's historical bowling spend."
+    },
+    "role_spend_distribution_pct": {
+      "All-Rounder": 24.1,
+      "Batter": 26.8,
+      "Bowler": 32.4,
+      "Wicketkeeper": 16.7
+    },
+    "pace_spin_spend_pct": {
+      "Pace": 70.3,
+      "Spin": 29.7
+    },
+    "overseas_spend_pct": 73.3,
+    "avg_price_to_base_multiplier": 9.3,
+    "avg_price_paid_cr": 8.0,
+    "marquee_affinity_pct": 52.6,
+    "current_squad": {
+      "as_of_year": 2025,
+      "built_from_mega_auction_year": 2025,
+      "caveat": "Players from the most recent mega-auction year plus any mini-auction transactions since, deduplicated to each player's latest transaction. May still miss an already-retained player who had zero transactions recorded across this whole window.",
+      "players": [
+        {
+          "player_name": "Rishabh Pant",
+          "role": "Batter",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 27.0
+        },
+        {
+          "player_name": "Nicholas Pooran",
+          "role": "Batter",
+          "type": "Retained",
+          "year_acquired": 2025,
+          "price_cr": 21.0
+        },
+        {
+          "player_name": "Ravi Bishnoi",
+          "role": "Bowler",
+          "type": "Retained",
+          "year_acquired": 2025,
+          "price_cr": 11.0
+        },
+        {
+          "player_name": "Mayank Yadav",
+          "role": "Bowler",
+          "type": "Retained",
+          "year_acquired": 2025,
+          "price_cr": 11.0
+        },
+        {
+          "player_name": "Avesh Khan",
+          "role": "Bowler",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 9.75
+        },
+        {
+          "player_name": "Akash Deep",
+          "role": "Bowler",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 8.0
+        },
+        {
+          "player_name": "David Miller",
+          "role": "Batter",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 7.5
+        },
+        {
+          "player_name": "Abdul Samad",
+          "role": "All-Rounder",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 4.2
+        },
+        {
+          "player_name": "Mohsin Khan",
+          "role": "Bowler",
+          "type": "Retained",
+          "year_acquired": 2025,
+          "price_cr": 4.0
+        },
+        {
+          "player_name": "Ayush Badoni",
+          "role": "All-Rounder",
+          "type": "Retained",
+          "year_acquired": 2025,
+          "price_cr": 4.0
+        },
+        {
+          "player_name": "Mitchell Marsh",
+          "role": "All-Rounder",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 3.4
+        },
+        {
+          "player_name": "Shahbaz Ahmed",
+          "role": "All-Rounder",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 2.4
+        },
+        {
+          "player_name": "Aiden Markram",
+          "role": "Batter",
+          "type": "Auction",
+          "year_acquired": 2025,
+          "price_cr": 2.0
+        }
+      ],
+      "player_count": 13,
+      "total_spend_cr": 115.25,
+      "retained_spend_cr": 51.0
+    }
+  }
+]

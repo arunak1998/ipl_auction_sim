@@ -1,0 +1,2185 @@
+{
+ "lots": 647,
+ "teams": [
+  {
+   "id": "csk",
+   "squad_size": 20,
+   "spent": 125.0,
+   "left": 0.0,
+   "overseas": 8,
+   "strength": 654.4,
+   "legal_xi": true,
+   "roles": {
+    "Batter": 8,
+    "Wicketkeeper": 4,
+    "All-rounder": 4,
+    "Pace": 2,
+    "Spin": 2
+   },
+   "players": [
+    {
+     "name": "Virat Kohli",
+     "role": "Batter",
+     "subtype": "Pace",
+     "country": "India",
+     "overseas": false,
+     "price": 27.0,
+     "rating": 72.8,
+     "in_xi": true
+    },
+    {
+     "name": "Jasprit Bumrah",
+     "role": "Bowler",
+     "subtype": "Pace",
+     "country": "India",
+     "overseas": false,
+     "price": 17.0,
+     "rating": 66.5,
+     "in_xi": true
+    },
+    {
+     "name": "Heinrich Klaasen",
+     "role": "Wicketkeeper",
+     "subtype": null,
+     "country": "South Africa",
+     "overseas": true,
+     "price": 17.0,
+     "rating": 70.7,
+     "in_xi": true
+    },
+    {
+     "name": "Noor Ahmad",
+     "role": "Bowler",
+     "subtype": "Spin",
+     "country": "Afghanistan",
+     "overseas": true,
+     "price": 11.0,
+     "rating": 64.0,
+     "in_xi": true
+    },
+    {
+     "name": "Mitchell Starc",
+     "role": "Bowler",
+     "subtype": "Pace",
+     "country": "Australia",
+     "overseas": true,
+     "price": 9.0,
+     "rating": 56.7,
+     "in_xi": false
+    },
+    {
+     "name": "Jonny Bairstow",
+     "role": "Wicketkeeper",
+     "subtype": "Pace",
+     "country": "England",
+     "overseas": true,
+     "price": 7.0,
+     "rating": 59.1,
+     "in_xi": false
+    },
+    {
+     "name": "Tabraiz Shamsi",
+     "role": "Bowler",
+     "subtype": "Spin",
+     "country": "South Africa",
+     "overseas": true,
+     "price": 5.0,
+     "rating": 59.9,
+     "in_xi": true
+    },
+    {
+     "name": "Nehal Wadhera",
+     "role": "Batter",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 4.6,
+     "rating": 49.1,
+     "in_xi": true
+    },
+    {
+     "name": "Ajinkya Rahane",
+     "role": "Batter",
+     "subtype": null,
+     "country": "India",
+     "overseas": false,
+     "price": 4.6,
+     "rating": 41.3,
+     "in_xi": false
+    },
+    {
+     "name": "Donovan Ferreira",
+     "role": "Wicketkeeper",
+     "subtype": "Spin",
+     "country": "South Africa",
+     "overseas": true,
+     "price": 3.65,
+     "rating": 53.4,
+     "in_xi": false
+    },
+    {
+     "name": "Anmolpreet Singh",
+     "role": "Batter",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 3.6,
+     "rating": 46.5,
+     "in_xi": true
+    },
+    {
+     "name": "Matthew Breetzke",
+     "role": "Batter",
+     "subtype": null,
+     "country": "South Africa",
+     "overseas": true,
+     "price": 2.65,
+     "rating": 37.9,
+     "in_xi": false
+    },
+    {
+     "name": "Mark Chapman",
+     "role": "Batter",
+     "subtype": "Spin",
+     "country": "New Zealand",
+     "overseas": true,
+     "price": 2.6,
+     "rating": 56.1,
+     "in_xi": true
+    },
+    {
+     "name": "Rahul Tewatia",
+     "role": "All-rounder",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 2.0,
+     "rating": 54.2,
+     "in_xi": true
+    },
+    {
+     "name": "Vishnu Vinod",
+     "role": "Wicketkeeper",
+     "subtype": null,
+     "country": "India",
+     "overseas": false,
+     "price": 1.9,
+     "rating": 45.4,
+     "in_xi": false
+    },
+    {
+     "name": "Ashwin Hebbar",
+     "role": "Batter",
+     "subtype": "Pace",
+     "country": "India",
+     "overseas": false,
+     "price": 1.9,
+     "rating": 39.7,
+     "in_xi": false
+    },
+    {
+     "name": "Tanmay Agarwal",
+     "role": "Batter",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 1.5,
+     "rating": 37.1,
+     "in_xi": false
+    },
+    {
+     "name": "Nitish Rana",
+     "role": "All-rounder",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 1.5,
+     "rating": 56.2,
+     "in_xi": true
+    },
+    {
+     "name": "R. Sai Kishore",
+     "role": "All-rounder",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 0.75,
+     "rating": 58.4,
+     "in_xi": true
+    },
+    {
+     "name": "Venkatesh Iyer",
+     "role": "All-rounder",
+     "subtype": "Pace",
+     "country": "India",
+     "overseas": false,
+     "price": 0.75,
+     "rating": 53.7,
+     "in_xi": false
+    }
+   ]
+  },
+  {
+   "id": "mi",
+   "squad_size": 20,
+   "spent": 125.0,
+   "left": 0.0,
+   "overseas": 8,
+   "strength": 669.2,
+   "legal_xi": true,
+   "roles": {
+    "Batter": 8,
+    "Wicketkeeper": 1,
+    "All-rounder": 7,
+    "Pace": 2,
+    "Spin": 2
+   },
+   "players": [
+    {
+     "name": "Tilak Varma",
+     "role": "Batter",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 19.0,
+     "rating": 69.6,
+     "in_xi": true
+    },
+    {
+     "name": "Rohit Sharma",
+     "role": "Batter",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 18.0,
+     "rating": 65.9,
+     "in_xi": true
+    },
+    {
+     "name": "Hardik Pandya",
+     "role": "All-rounder",
+     "subtype": "Pace",
+     "country": "India",
+     "overseas": false,
+     "price": 11.0,
+     "rating": 61.9,
+     "in_xi": true
+    },
+    {
+     "name": "Abishek Porel",
+     "role": "Wicketkeeper",
+     "subtype": null,
+     "country": "India",
+     "overseas": false,
+     "price": 10.0,
+     "rating": 59.4,
+     "in_xi": true
+    },
+    {
+     "name": "Piyush Chawla",
+     "role": "Bowler",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 8.1,
+     "rating": 55.8,
+     "in_xi": true
+    },
+    {
+     "name": "Devdutt Padikkal",
+     "role": "Batter",
+     "subtype": null,
+     "country": "India",
+     "overseas": false,
+     "price": 8.0,
+     "rating": 51.6,
+     "in_xi": false
+    },
+    {
+     "name": "Shimron Hetmyer",
+     "role": "Batter",
+     "subtype": null,
+     "country": "West Indies",
+     "overseas": true,
+     "price": 8.0,
+     "rating": 58.7,
+     "in_xi": true
+    },
+    {
+     "name": "Sherfane Rutherford",
+     "role": "Batter",
+     "subtype": "Pace",
+     "country": "West Indies",
+     "overseas": true,
+     "price": 7.1,
+     "rating": 58.7,
+     "in_xi": false
+    },
+    {
+     "name": "Ayush Badoni",
+     "role": "Batter",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 7.0,
+     "rating": 56.5,
+     "in_xi": true
+    },
+    {
+     "name": "Nitish Kumar Reddy",
+     "role": "All-rounder",
+     "subtype": "Pace",
+     "country": "India",
+     "overseas": false,
+     "price": 6.0,
+     "rating": 60.9,
+     "in_xi": true
+    },
+    {
+     "name": "Marcus Stoinis",
+     "role": "All-rounder",
+     "subtype": "Pace",
+     "country": "Australia",
+     "overseas": true,
+     "price": 5.0,
+     "rating": 62.4,
+     "in_xi": true
+    },
+    {
+     "name": "Adil Rashid",
+     "role": "Bowler",
+     "subtype": "Spin",
+     "country": "England",
+     "overseas": true,
+     "price": 5.0,
+     "rating": 57.8,
+     "in_xi": true
+    },
+    {
+     "name": "Mustafizur Rahman",
+     "role": "Bowler",
+     "subtype": "Pace",
+     "country": "Bangladesh",
+     "overseas": true,
+     "price": 4.5,
+     "rating": 60.3,
+     "in_xi": true
+    },
+    {
+     "name": "Abhishek Sharma",
+     "role": "All-rounder",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 4.0,
+     "rating": 59.6,
+     "in_xi": false
+    },
+    {
+     "name": "Anrich Nortje",
+     "role": "Bowler",
+     "subtype": "Pace",
+     "country": "South Africa",
+     "overseas": true,
+     "price": 2.5,
+     "rating": 49.2,
+     "in_xi": false
+    },
+    {
+     "name": "Ravichandaran Ashwin",
+     "role": "All-rounder",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 0.9,
+     "rating": 53.3,
+     "in_xi": false
+    },
+    {
+     "name": "Bevan John Jacobs",
+     "role": "Batter",
+     "subtype": "Pace",
+     "country": "New Zealand",
+     "overseas": true,
+     "price": 0.3,
+     "rating": 56.5,
+     "in_xi": false
+    },
+    {
+     "name": "Joshua Brown",
+     "role": "Batter",
+     "subtype": "Spin",
+     "country": "Australia",
+     "overseas": true,
+     "price": 0.3,
+     "rating": 49.3,
+     "in_xi": false
+    },
+    {
+     "name": "Harpreet Brar",
+     "role": "All-rounder",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 0.3,
+     "rating": 53.6,
+     "in_xi": false
+    },
+    {
+     "name": "Abdul Samad",
+     "role": "All-rounder",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 0.0,
+     "rating": 53.0,
+     "in_xi": false
+    }
+   ]
+  },
+  {
+   "id": "rcb",
+   "squad_size": 20,
+   "spent": 122.65,
+   "left": 2.35,
+   "overseas": 8,
+   "strength": 664.4,
+   "legal_xi": true,
+   "roles": {
+    "Batter": 6,
+    "Wicketkeeper": 1,
+    "All-rounder": 7,
+    "Pace": 4,
+    "Spin": 2
+   },
+   "players": [
+    {
+     "name": "Bhuvneshwar Kumar",
+     "role": "Bowler",
+     "subtype": "Pace",
+     "country": "India",
+     "overseas": false,
+     "price": 13.0,
+     "rating": 63.5,
+     "in_xi": true
+    },
+    {
+     "name": "Mohsin Khan",
+     "role": "Bowler",
+     "subtype": "Pace",
+     "country": "India",
+     "overseas": false,
+     "price": 12.0,
+     "rating": 58.1,
+     "in_xi": true
+    },
+    {
+     "name": "Ashutosh Sharma",
+     "role": "All-rounder",
+     "subtype": "Pace",
+     "country": "India",
+     "overseas": false,
+     "price": 11.1,
+     "rating": 72.1,
+     "in_xi": true
+    },
+    {
+     "name": "Faf Du Plessis",
+     "role": "Batter",
+     "subtype": null,
+     "country": "South Africa",
+     "overseas": true,
+     "price": 11.0,
+     "rating": 60.2,
+     "in_xi": true
+    },
+    {
+     "name": "Rilee Rossouw",
+     "role": "Batter",
+     "subtype": null,
+     "country": "South Africa",
+     "overseas": true,
+     "price": 11.0,
+     "rating": 65.2,
+     "in_xi": true
+    },
+    {
+     "name": "Avinash Singh",
+     "role": "Bowler",
+     "subtype": "Pace",
+     "country": "India",
+     "overseas": false,
+     "price": 10.1,
+     "rating": 65.8,
+     "in_xi": true
+    },
+    {
+     "name": "Dewald Brevis",
+     "role": "Batter",
+     "subtype": "Spin",
+     "country": "South Africa",
+     "overseas": true,
+     "price": 9.15,
+     "rating": 63.6,
+     "in_xi": true
+    },
+    {
+     "name": "Shreyas Gopal",
+     "role": "Bowler",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 8.1,
+     "rating": 56.2,
+     "in_xi": true
+    },
+    {
+     "name": "Sunil Narine",
+     "role": "All-rounder",
+     "subtype": "Spin",
+     "country": "West Indies",
+     "overseas": true,
+     "price": 7.0,
+     "rating": 64.6,
+     "in_xi": false
+    },
+    {
+     "name": "Rovman Powell",
+     "role": "Batter",
+     "subtype": "Pace",
+     "country": "West Indies",
+     "overseas": true,
+     "price": 5.1,
+     "rating": 59.3,
+     "in_xi": false
+    },
+    {
+     "name": "Kane Williamson",
+     "role": "Batter",
+     "subtype": null,
+     "country": "New Zealand",
+     "overseas": true,
+     "price": 5.0,
+     "rating": 46.1,
+     "in_xi": false
+    },
+    {
+     "name": "Mohammad Shami",
+     "role": "Bowler",
+     "subtype": "Pace",
+     "country": "India",
+     "overseas": false,
+     "price": 4.0,
+     "rating": 42.7,
+     "in_xi": false
+    },
+    {
+     "name": "Tim Seifert",
+     "role": "Wicketkeeper",
+     "subtype": null,
+     "country": "New Zealand",
+     "overseas": true,
+     "price": 3.55,
+     "rating": 63.5,
+     "in_xi": true
+    },
+    {
+     "name": "Shivam Dube",
+     "role": "All-rounder",
+     "subtype": "Pace",
+     "country": "India",
+     "overseas": false,
+     "price": 2.5,
+     "rating": 58.6,
+     "in_xi": true
+    },
+    {
+     "name": "Axar Patel",
+     "role": "All-rounder",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 2.0,
+     "rating": 53.7,
+     "in_xi": false
+    },
+    {
+     "name": "Shahrukh Khan",
+     "role": "All-rounder",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 2.0,
+     "rating": 53.0,
+     "in_xi": false
+    },
+    {
+     "name": "Riyan Parag",
+     "role": "All-rounder",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 2.0,
+     "rating": 52.7,
+     "in_xi": false
+    },
+    {
+     "name": "Krunal Pandya",
+     "role": "All-rounder",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 2.0,
+     "rating": 51.5,
+     "in_xi": false
+    },
+    {
+     "name": "Samarth Vyas",
+     "role": "Batter",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 1.1,
+     "rating": 37.6,
+     "in_xi": true
+    },
+    {
+     "name": "Waqar Salamkheil",
+     "role": "Bowler",
+     "subtype": "Spin",
+     "country": "Afghanistan",
+     "overseas": true,
+     "price": 0.95,
+     "rating": 36.9,
+     "in_xi": false
+    }
+   ]
+  },
+  {
+   "id": "kkr",
+   "squad_size": 20,
+   "spent": 110.1,
+   "left": 14.9,
+   "overseas": 8,
+   "strength": 639.9,
+   "legal_xi": true,
+   "roles": {
+    "Batter": 6,
+    "Wicketkeeper": 4,
+    "All-rounder": 7,
+    "Pace": 2,
+    "Spin": 1
+   },
+   "players": [
+    {
+     "name": "Rajat Patidar",
+     "role": "Batter",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 16.0,
+     "rating": 74.6,
+     "in_xi": true
+    },
+    {
+     "name": "MS Dhoni",
+     "role": "Wicketkeeper",
+     "subtype": "Pace",
+     "country": "India",
+     "overseas": false,
+     "price": 13.0,
+     "rating": 64.1,
+     "in_xi": true
+    },
+    {
+     "name": "Harry Brook",
+     "role": "Batter",
+     "subtype": "Pace",
+     "country": "England",
+     "overseas": true,
+     "price": 13.0,
+     "rating": 72.4,
+     "in_xi": true
+    },
+    {
+     "name": "Tristan Stubbs",
+     "role": "Wicketkeeper",
+     "subtype": "Spin",
+     "country": "South Africa",
+     "overseas": true,
+     "price": 10.0,
+     "rating": 64.5,
+     "in_xi": false
+    },
+    {
+     "name": "Mitchell Marsh",
+     "role": "All-rounder",
+     "subtype": "Pace",
+     "country": "Australia",
+     "overseas": true,
+     "price": 9.0,
+     "rating": 65.0,
+     "in_xi": true
+    },
+    {
+     "name": "Evin Lewis",
+     "role": "Batter",
+     "subtype": null,
+     "country": "West Indies",
+     "overseas": true,
+     "price": 9.0,
+     "rating": 56.0,
+     "in_xi": false
+    },
+    {
+     "name": "Ben Duckett",
+     "role": "Batter",
+     "subtype": null,
+     "country": "England",
+     "overseas": true,
+     "price": 7.0,
+     "rating": 56.7,
+     "in_xi": true
+    },
+    {
+     "name": "Mayank Agarawal",
+     "role": "Batter",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 6.0,
+     "rating": 53.6,
+     "in_xi": true
+    },
+    {
+     "name": "Josh Inglis",
+     "role": "Wicketkeeper",
+     "subtype": null,
+     "country": "Australia",
+     "overseas": true,
+     "price": 6.0,
+     "rating": 59.3,
+     "in_xi": false
+    },
+    {
+     "name": "Jitesh Sharma",
+     "role": "Wicketkeeper",
+     "subtype": null,
+     "country": "India",
+     "overseas": false,
+     "price": 5.0,
+     "rating": 54.2,
+     "in_xi": true
+    },
+    {
+     "name": "Manan Vohra",
+     "role": "Batter",
+     "subtype": null,
+     "country": "India",
+     "overseas": false,
+     "price": 3.6,
+     "rating": 43.8,
+     "in_xi": false
+    },
+    {
+     "name": "Rachin Ravindra",
+     "role": "All-rounder",
+     "subtype": "Spin",
+     "country": "New Zealand",
+     "overseas": true,
+     "price": 3.1,
+     "rating": 62.6,
+     "in_xi": false
+    },
+    {
+     "name": "Maheesh Theekshana",
+     "role": "Bowler",
+     "subtype": "Spin",
+     "country": "Sri Lanka",
+     "overseas": true,
+     "price": 3.0,
+     "rating": 47.4,
+     "in_xi": true
+    },
+    {
+     "name": "Washington Sundar",
+     "role": "All-rounder",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 2.0,
+     "rating": 49.2,
+     "in_xi": false
+    },
+    {
+     "name": "Jaydev Unadkat",
+     "role": "Bowler",
+     "subtype": "Pace",
+     "country": "India",
+     "overseas": false,
+     "price": 1.4,
+     "rating": 50.6,
+     "in_xi": true
+    },
+    {
+     "name": "Krishnappa Gowtham",
+     "role": "All-rounder",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 1.0,
+     "rating": 50.6,
+     "in_xi": false
+    },
+    {
+     "name": "Rasikh Dar",
+     "role": "Bowler",
+     "subtype": "Pace",
+     "country": "India",
+     "overseas": false,
+     "price": 0.9,
+     "rating": 50.1,
+     "in_xi": true
+    },
+    {
+     "name": "Mahipal Lomror",
+     "role": "All-rounder",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 0.5,
+     "rating": 49.0,
+     "in_xi": false
+    },
+    {
+     "name": "Anshul Kamboj",
+     "role": "All-rounder",
+     "subtype": "Pace",
+     "country": "India",
+     "overseas": false,
+     "price": 0.3,
+     "rating": 51.2,
+     "in_xi": true
+    },
+    {
+     "name": "Vijay Shankar",
+     "role": "All-rounder",
+     "subtype": "Pace",
+     "country": "India",
+     "overseas": false,
+     "price": 0.3,
+     "rating": 49.4,
+     "in_xi": false
+    }
+   ]
+  },
+  {
+   "id": "srh",
+   "squad_size": 20,
+   "spent": 125.0,
+   "left": 0.0,
+   "overseas": 8,
+   "strength": 692.8,
+   "legal_xi": true,
+   "roles": {
+    "Batter": 6,
+    "Wicketkeeper": 3,
+    "All-rounder": 5,
+    "Pace": 3,
+    "Spin": 3
+   },
+   "players": [
+    {
+     "name": "Rishabh Pant",
+     "role": "Batter",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 24.0,
+     "rating": 66.9,
+     "in_xi": true
+    },
+    {
+     "name": "Angkrish Raghuvanshi",
+     "role": "Batter",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 13.1,
+     "rating": 65.4,
+     "in_xi": true
+    },
+    {
+     "name": "Suryakumar Yadav",
+     "role": "Batter",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 13.0,
+     "rating": 67.2,
+     "in_xi": true
+    },
+    {
+     "name": "Yashasvi Jaiswal",
+     "role": "Batter",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 13.0,
+     "rating": 62.8,
+     "in_xi": true
+    },
+    {
+     "name": "Josh Hazlewood",
+     "role": "Bowler",
+     "subtype": "Pace",
+     "country": "Australia",
+     "overseas": true,
+     "price": 13.0,
+     "rating": 59.5,
+     "in_xi": false
+    },
+    {
+     "name": "Andre Russell",
+     "role": "All-rounder",
+     "subtype": "Pace",
+     "country": "West Indies",
+     "overseas": true,
+     "price": 10.0,
+     "rating": 64.0,
+     "in_xi": true
+    },
+    {
+     "name": "Naman Dhir",
+     "role": "All-rounder",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 9.1,
+     "rating": 69.5,
+     "in_xi": true
+    },
+    {
+     "name": "Adam Zampa",
+     "role": "Bowler",
+     "subtype": "Spin",
+     "country": "Australia",
+     "overseas": true,
+     "price": 8.0,
+     "rating": 64.7,
+     "in_xi": true
+    },
+    {
+     "name": "Rahul Tripathi",
+     "role": "Batter",
+     "subtype": "Pace",
+     "country": "India",
+     "overseas": false,
+     "price": 4.65,
+     "rating": 47.7,
+     "in_xi": false
+    },
+    {
+     "name": "Ravindra Jadeja",
+     "role": "All-rounder",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 4.5,
+     "rating": 58.7,
+     "in_xi": true
+    },
+    {
+     "name": "Rahul Chahar",
+     "role": "Bowler",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 4.0,
+     "rating": 53.8,
+     "in_xi": true
+    },
+    {
+     "name": "Ricky Bhui",
+     "role": "Batter",
+     "subtype": null,
+     "country": "India",
+     "overseas": false,
+     "price": 3.6,
+     "rating": 49.6,
+     "in_xi": false
+    },
+    {
+     "name": "Kusal Mendis",
+     "role": "Wicketkeeper",
+     "subtype": "Spin",
+     "country": "Sri Lanka",
+     "overseas": true,
+     "price": 2.15,
+     "rating": 52.2,
+     "in_xi": true
+    },
+    {
+     "name": "Chris Green",
+     "role": "All-rounder",
+     "subtype": "Spin",
+     "country": "Australia",
+     "overseas": true,
+     "price": 0.9,
+     "rating": 62.2,
+     "in_xi": false
+    },
+    {
+     "name": "Johnson Charles",
+     "role": "Wicketkeeper",
+     "subtype": "Spin",
+     "country": "West Indies",
+     "overseas": true,
+     "price": 0.75,
+     "rating": 46.9,
+     "in_xi": false
+    },
+    {
+     "name": "Richard Ngarava",
+     "role": "Bowler",
+     "subtype": "Pace",
+     "country": "Zimbabwe",
+     "overseas": true,
+     "price": 0.75,
+     "rating": 67.6,
+     "in_xi": true
+    },
+    {
+     "name": "Michael Pepper",
+     "role": "Wicketkeeper",
+     "subtype": null,
+     "country": "England",
+     "overseas": true,
+     "price": 0.5,
+     "rating": 45.9,
+     "in_xi": false
+    },
+    {
+     "name": "Ramandeep Singh",
+     "role": "All-rounder",
+     "subtype": "Pace",
+     "country": "India",
+     "overseas": false,
+     "price": 0.0,
+     "rating": 48.1,
+     "in_xi": false
+    },
+    {
+     "name": "Sandeep Sharma",
+     "role": "Bowler",
+     "subtype": "Pace",
+     "country": "India",
+     "overseas": false,
+     "price": 0.0,
+     "rating": 47.8,
+     "in_xi": false
+    },
+    {
+     "name": "Murugan Ashwin",
+     "role": "Bowler",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 0.0,
+     "rating": 46.2,
+     "in_xi": false
+    }
+   ]
+  },
+  {
+   "id": "rr",
+   "squad_size": 20,
+   "spent": 125.0,
+   "left": 0.0,
+   "overseas": 8,
+   "strength": 674.3,
+   "legal_xi": true,
+   "roles": {
+    "Batter": 7,
+    "Wicketkeeper": 3,
+    "All-rounder": 3,
+    "Pace": 4,
+    "Spin": 3
+   },
+   "players": [
+    {
+     "name": "Varun Chakaravarthy",
+     "role": "Bowler",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 17.0,
+     "rating": 70.5,
+     "in_xi": true
+    },
+    {
+     "name": "Sanju Samson",
+     "role": "Wicketkeeper",
+     "subtype": null,
+     "country": "India",
+     "overseas": false,
+     "price": 17.0,
+     "rating": 67.6,
+     "in_xi": true
+    },
+    {
+     "name": "Travis Head",
+     "role": "Batter",
+     "subtype": "Spin",
+     "country": "Australia",
+     "overseas": true,
+     "price": 17.0,
+     "rating": 68.5,
+     "in_xi": true
+    },
+    {
+     "name": "Shubman Gill",
+     "role": "Batter",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 15.0,
+     "rating": 64.5,
+     "in_xi": true
+    },
+    {
+     "name": "Dhruv Jurel",
+     "role": "Wicketkeeper",
+     "subtype": null,
+     "country": "India",
+     "overseas": false,
+     "price": 13.0,
+     "rating": 71.8,
+     "in_xi": true
+    },
+    {
+     "name": "Finn Allen",
+     "role": "Batter",
+     "subtype": null,
+     "country": "New Zealand",
+     "overseas": true,
+     "price": 11.0,
+     "rating": 69.9,
+     "in_xi": true
+    },
+    {
+     "name": "Aiden Markram",
+     "role": "Batter",
+     "subtype": "Spin",
+     "country": "South Africa",
+     "overseas": true,
+     "price": 10.0,
+     "rating": 55.5,
+     "in_xi": true
+    },
+    {
+     "name": "Ravi Bishnoi",
+     "role": "Bowler",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 7.0,
+     "rating": 55.0,
+     "in_xi": true
+    },
+    {
+     "name": "Tom Banton",
+     "role": "Wicketkeeper",
+     "subtype": "Spin",
+     "country": "England",
+     "overseas": true,
+     "price": 4.5,
+     "rating": 57.3,
+     "in_xi": false
+    },
+    {
+     "name": "Wanindu Hasaranga",
+     "role": "Bowler",
+     "subtype": "Spin",
+     "country": "Sri Lanka",
+     "overseas": true,
+     "price": 4.0,
+     "rating": 59.2,
+     "in_xi": true
+    },
+    {
+     "name": "Abhinav Manohar",
+     "role": "Batter",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 3.1,
+     "rating": 37.1,
+     "in_xi": false
+    },
+    {
+     "name": "Glenn Maxwell",
+     "role": "All-rounder",
+     "subtype": "Spin",
+     "country": "Australia",
+     "overseas": true,
+     "price": 2.0,
+     "rating": 57.1,
+     "in_xi": false
+    },
+    {
+     "name": "Steve Smith",
+     "role": "Batter",
+     "subtype": null,
+     "country": "Australia",
+     "overseas": true,
+     "price": 2.0,
+     "rating": 40.0,
+     "in_xi": false
+    },
+    {
+     "name": "Deepak Chahar",
+     "role": "Bowler",
+     "subtype": "Pace",
+     "country": "India",
+     "overseas": false,
+     "price": 1.15,
+     "rating": 45.8,
+     "in_xi": true
+    },
+    {
+     "name": "Chetan Sakariya",
+     "role": "Bowler",
+     "subtype": "Pace",
+     "country": "India",
+     "overseas": false,
+     "price": 0.75,
+     "rating": 46.0,
+     "in_xi": true
+    },
+    {
+     "name": "Leus Du Plooy",
+     "role": "Batter",
+     "subtype": null,
+     "country": "England",
+     "overseas": true,
+     "price": 0.5,
+     "rating": 48.1,
+     "in_xi": false
+    },
+    {
+     "name": "Siddharth Kaul",
+     "role": "Bowler",
+     "subtype": "Pace",
+     "country": "India",
+     "overseas": false,
+     "price": 0.0,
+     "rating": 44.9,
+     "in_xi": false
+    },
+    {
+     "name": "Shivam Mavi",
+     "role": "Bowler",
+     "subtype": "Pace",
+     "country": "India",
+     "overseas": false,
+     "price": 0.0,
+     "rating": 44.7,
+     "in_xi": false
+    },
+    {
+     "name": "Shardul Thakur",
+     "role": "All-rounder",
+     "subtype": "Pace",
+     "country": "India",
+     "overseas": false,
+     "price": 0.0,
+     "rating": 44.3,
+     "in_xi": false
+    },
+    {
+     "name": "Anukul Roy",
+     "role": "All-rounder",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 0.0,
+     "rating": 44.0,
+     "in_xi": false
+    }
+   ]
+  },
+  {
+   "id": "dc",
+   "squad_size": 20,
+   "spent": 106.55,
+   "left": 18.45,
+   "overseas": 8,
+   "strength": 645.3,
+   "legal_xi": true,
+   "roles": {
+    "Batter": 8,
+    "Wicketkeeper": 3,
+    "All-rounder": 4,
+    "Pace": 2,
+    "Spin": 3
+   },
+   "players": [
+    {
+     "name": "Phil Salt",
+     "role": "Wicketkeeper",
+     "subtype": null,
+     "country": "England",
+     "overseas": true,
+     "price": 17.0,
+     "rating": 71.7,
+     "in_xi": true
+    },
+    {
+     "name": "Yuzvendra Chahal",
+     "role": "Bowler",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 13.0,
+     "rating": 58.2,
+     "in_xi": true
+    },
+    {
+     "name": "Kuldeep Yadav",
+     "role": "Bowler",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 10.0,
+     "rating": 59.6,
+     "in_xi": true
+    },
+    {
+     "name": "Devon Conway",
+     "role": "Batter",
+     "subtype": null,
+     "country": "New Zealand",
+     "overseas": true,
+     "price": 9.0,
+     "rating": 57.2,
+     "in_xi": true
+    },
+    {
+     "name": "Glenn Phillips",
+     "role": "Batter",
+     "subtype": "Spin",
+     "country": "New Zealand",
+     "overseas": true,
+     "price": 9.0,
+     "rating": 67.5,
+     "in_xi": true
+    },
+    {
+     "name": "Aniket Verma",
+     "role": "Batter",
+     "subtype": null,
+     "country": "India",
+     "overseas": false,
+     "price": 8.1,
+     "rating": 58.5,
+     "in_xi": true
+    },
+    {
+     "name": "Priyansh Arya",
+     "role": "All-rounder",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 7.1,
+     "rating": 71.3,
+     "in_xi": true
+    },
+    {
+     "name": "Prithvi Shaw",
+     "role": "Batter",
+     "subtype": null,
+     "country": "India",
+     "overseas": false,
+     "price": 6.15,
+     "rating": 54.3,
+     "in_xi": true
+    },
+    {
+     "name": "Pat Cummins",
+     "role": "Bowler",
+     "subtype": "Pace",
+     "country": "Australia",
+     "overseas": true,
+     "price": 6.0,
+     "rating": 50.4,
+     "in_xi": false
+    },
+    {
+     "name": "Manish Pandey",
+     "role": "Batter",
+     "subtype": null,
+     "country": "India",
+     "overseas": false,
+     "price": 4.65,
+     "rating": 46.4,
+     "in_xi": true
+    },
+    {
+     "name": "Sachin Baby",
+     "role": "Batter",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 3.6,
+     "rating": 42.6,
+     "in_xi": false
+    },
+    {
+     "name": "Tom Kohler-Cadmore",
+     "role": "Wicketkeeper",
+     "subtype": null,
+     "country": "England",
+     "overseas": true,
+     "price": 3.1,
+     "rating": 41.8,
+     "in_xi": false
+    },
+    {
+     "name": "Ashton Turner",
+     "role": "Batter",
+     "subtype": "Spin",
+     "country": "Australia",
+     "overseas": true,
+     "price": 2.5,
+     "rating": 35.1,
+     "in_xi": false
+    },
+    {
+     "name": "Liam Livingstone",
+     "role": "All-rounder",
+     "subtype": "Spin",
+     "country": "England",
+     "overseas": true,
+     "price": 2.0,
+     "rating": 57.0,
+     "in_xi": true
+    },
+    {
+     "name": "Prasidh Krishna",
+     "role": "Bowler",
+     "subtype": "Pace",
+     "country": "India",
+     "overseas": false,
+     "price": 2.0,
+     "rating": 43.6,
+     "in_xi": true
+    },
+    {
+     "name": "Himmat Singh",
+     "role": "Batter",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 1.7,
+     "rating": 32.4,
+     "in_xi": false
+    },
+    {
+     "name": "Josh Philippe",
+     "role": "Wicketkeeper",
+     "subtype": null,
+     "country": "Australia",
+     "overseas": true,
+     "price": 0.75,
+     "rating": 33.4,
+     "in_xi": false
+    },
+    {
+     "name": "Tanush Kotian",
+     "role": "All-rounder",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 0.3,
+     "rating": 44.0,
+     "in_xi": false
+    },
+    {
+     "name": "Jagadeesha Suchith",
+     "role": "Bowler",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 0.3,
+     "rating": 43.0,
+     "in_xi": false
+    },
+    {
+     "name": "Mayank Dagar",
+     "role": "All-rounder",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 0.3,
+     "rating": 42.8,
+     "in_xi": false
+    }
+   ]
+  },
+  {
+   "id": "pbks",
+   "squad_size": 20,
+   "spent": 125.0,
+   "left": 0.0,
+   "overseas": 8,
+   "strength": 635.8,
+   "legal_xi": true,
+   "roles": {
+    "Batter": 6,
+    "Wicketkeeper": 4,
+    "All-rounder": 2,
+    "Pace": 7,
+    "Spin": 1
+   },
+   "players": [
+    {
+     "name": "Shreyas Iyer",
+     "role": "Batter",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 21.0,
+     "rating": 67.8,
+     "in_xi": true
+    },
+    {
+     "name": "B Sai Sudharsan",
+     "role": "Batter",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 21.0,
+     "rating": 79.8,
+     "in_xi": true
+    },
+    {
+     "name": "Rashid Khan",
+     "role": "Bowler",
+     "subtype": "Spin",
+     "country": "Afghanistan",
+     "overseas": true,
+     "price": 16.0,
+     "rating": 70.7,
+     "in_xi": true
+    },
+    {
+     "name": "Nicholas Pooran",
+     "role": "Wicketkeeper",
+     "subtype": null,
+     "country": "West Indies",
+     "overseas": true,
+     "price": 14.0,
+     "rating": 67.6,
+     "in_xi": true
+    },
+    {
+     "name": "Ishan Kishan",
+     "role": "Wicketkeeper",
+     "subtype": null,
+     "country": "India",
+     "overseas": false,
+     "price": 14.0,
+     "rating": 65.4,
+     "in_xi": true
+    },
+    {
+     "name": "Kagiso Rabada",
+     "role": "Bowler",
+     "subtype": "Pace",
+     "country": "South Africa",
+     "overseas": true,
+     "price": 9.0,
+     "rating": 54.8,
+     "in_xi": true
+    },
+    {
+     "name": "Ryan Rickelton",
+     "role": "Wicketkeeper",
+     "subtype": null,
+     "country": "South Africa",
+     "overseas": true,
+     "price": 8.0,
+     "rating": 64.1,
+     "in_xi": false
+    },
+    {
+     "name": "James Vince",
+     "role": "Batter",
+     "subtype": null,
+     "country": "England",
+     "overseas": true,
+     "price": 6.0,
+     "rating": 51.9,
+     "in_xi": true
+    },
+    {
+     "name": "Karun Nair",
+     "role": "Batter",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 5.1,
+     "rating": 51.3,
+     "in_xi": true
+    },
+    {
+     "name": "Shai Hope",
+     "role": "Wicketkeeper",
+     "subtype": null,
+     "country": "West Indies",
+     "overseas": true,
+     "price": 3.05,
+     "rating": 51.1,
+     "in_xi": false
+    },
+    {
+     "name": "Trent Boult",
+     "role": "Bowler",
+     "subtype": "Pace",
+     "country": "New Zealand",
+     "overseas": true,
+     "price": 2.5,
+     "rating": 50.0,
+     "in_xi": false
+    },
+    {
+     "name": "Fazalhaq Farooqi",
+     "role": "Bowler",
+     "subtype": "Pace",
+     "country": "Afghanistan",
+     "overseas": true,
+     "price": 2.0,
+     "rating": 54.0,
+     "in_xi": false
+    },
+    {
+     "name": "Abhimanyu Easwaran",
+     "role": "Batter",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 0.9,
+     "rating": 35.5,
+     "in_xi": false
+    },
+    {
+     "name": "Umran Malik",
+     "role": "Bowler",
+     "subtype": "Pace",
+     "country": "India",
+     "overseas": false,
+     "price": 0.75,
+     "rating": 42.4,
+     "in_xi": true
+    },
+    {
+     "name": "Umesh Yadav",
+     "role": "Bowler",
+     "subtype": "Pace",
+     "country": "India",
+     "overseas": false,
+     "price": 0.6,
+     "rating": 41.7,
+     "in_xi": false
+    },
+    {
+     "name": "Abhishek Nair",
+     "role": "Batter",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 0.5,
+     "rating": 34.1,
+     "in_xi": false
+    },
+    {
+     "name": "Utkarsh Singh",
+     "role": "All-rounder",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 0.3,
+     "rating": 42.3,
+     "in_xi": true
+    },
+    {
+     "name": "Yash Thakur",
+     "role": "Bowler",
+     "subtype": "Pace",
+     "country": "India",
+     "overseas": false,
+     "price": 0.3,
+     "rating": 41.8,
+     "in_xi": true
+    },
+    {
+     "name": "Vaibhav Arora",
+     "role": "Bowler",
+     "subtype": "Pace",
+     "country": "India",
+     "overseas": false,
+     "price": 0.0,
+     "rating": 41.6,
+     "in_xi": false
+    },
+    {
+     "name": "K.C Cariappa",
+     "role": "All-rounder",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 0.0,
+     "rating": 41.5,
+     "in_xi": false
+    }
+   ]
+  },
+  {
+   "id": "gt",
+   "squad_size": 20,
+   "spent": 91.8,
+   "left": 33.2,
+   "overseas": 8,
+   "strength": 585.9,
+   "legal_xi": true,
+   "roles": {
+    "Batter": 8,
+    "Wicketkeeper": 4,
+    "All-rounder": 4,
+    "Pace": 3,
+    "Spin": 1
+   },
+   "players": [
+    {
+     "name": "KL Rahul",
+     "role": "Wicketkeeper",
+     "subtype": null,
+     "country": "India",
+     "overseas": false,
+     "price": 18.0,
+     "rating": 69.2,
+     "in_xi": true
+    },
+    {
+     "name": "Ruturaj Gaikwad",
+     "role": "Batter",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 13.0,
+     "rating": 62.4,
+     "in_xi": true
+    },
+    {
+     "name": "David Warner",
+     "role": "Batter",
+     "subtype": null,
+     "country": "Australia",
+     "overseas": true,
+     "price": 12.0,
+     "rating": 65.1,
+     "in_xi": true
+    },
+    {
+     "name": "Will Jacks",
+     "role": "All-rounder",
+     "subtype": "Spin",
+     "country": "England",
+     "overseas": true,
+     "price": 7.0,
+     "rating": 63.9,
+     "in_xi": true
+    },
+    {
+     "name": "Jake Fraser-Mcgurk",
+     "role": "Batter",
+     "subtype": null,
+     "country": "Australia",
+     "overseas": true,
+     "price": 6.0,
+     "rating": 33.6,
+     "in_xi": false
+    },
+    {
+     "name": "Brandon King",
+     "role": "Batter",
+     "subtype": "Spin",
+     "country": "West Indies",
+     "overseas": true,
+     "price": 5.15,
+     "rating": 51.6,
+     "in_xi": true
+    },
+    {
+     "name": "Rahmanullah Gurbaz",
+     "role": "Wicketkeeper",
+     "subtype": null,
+     "country": "Afghanistan",
+     "overseas": true,
+     "price": 5.0,
+     "rating": 46.1,
+     "in_xi": true
+    },
+    {
+     "name": "Mohammad Siraj",
+     "role": "Bowler",
+     "subtype": "Pace",
+     "country": "India",
+     "overseas": false,
+     "price": 4.0,
+     "rating": 42.8,
+     "in_xi": true
+    },
+    {
+     "name": "Apoorv Wankhade",
+     "role": "Batter",
+     "subtype": null,
+     "country": "India",
+     "overseas": false,
+     "price": 3.6,
+     "rating": 42.6,
+     "in_xi": false
+    },
+    {
+     "name": "Bhanuka Rajapaksa",
+     "role": "Batter",
+     "subtype": null,
+     "country": "Sri Lanka",
+     "overseas": true,
+     "price": 3.15,
+     "rating": 37.6,
+     "in_xi": false
+    },
+    {
+     "name": "Atharva Taide",
+     "role": "Batter",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 3.1,
+     "rating": 36.0,
+     "in_xi": false
+    },
+    {
+     "name": "Virat Singh",
+     "role": "Batter",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 2.6,
+     "rating": 43.4,
+     "in_xi": true
+    },
+    {
+     "name": "Harshit Rana",
+     "role": "Bowler",
+     "subtype": "Pace",
+     "country": "India",
+     "overseas": false,
+     "price": 2.5,
+     "rating": 49.5,
+     "in_xi": true
+    },
+    {
+     "name": "Karn Sharma",
+     "role": "Bowler",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 2.1,
+     "rating": 50.6,
+     "in_xi": true
+    },
+    {
+     "name": "Kusal Perera",
+     "role": "Wicketkeeper",
+     "subtype": null,
+     "country": "Sri Lanka",
+     "overseas": true,
+     "price": 1.95,
+     "rating": 43.5,
+     "in_xi": false
+    },
+    {
+     "name": "Alex Carey",
+     "role": "Wicketkeeper",
+     "subtype": null,
+     "country": "Australia",
+     "overseas": true,
+     "price": 1.0,
+     "rating": 34.0,
+     "in_xi": false
+    },
+    {
+     "name": "Jayant Yadav",
+     "role": "All-rounder",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 0.75,
+     "rating": 41.1,
+     "in_xi": false
+    },
+    {
+     "name": "Abhay Choudhary",
+     "role": "All-rounder",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 0.3,
+     "rating": 41.3,
+     "in_xi": true
+    },
+    {
+     "name": "Rishi Dhawan",
+     "role": "All-rounder",
+     "subtype": "Pace",
+     "country": "India",
+     "overseas": false,
+     "price": 0.3,
+     "rating": 40.4,
+     "in_xi": false
+    },
+    {
+     "name": "Mukesh Choudhary",
+     "role": "Bowler",
+     "subtype": "Pace",
+     "country": "India",
+     "overseas": false,
+     "price": 0.3,
+     "rating": 40.3,
+     "in_xi": false
+    }
+   ]
+  },
+  {
+   "id": "lsg",
+   "squad_size": 20,
+   "spent": 125.0,
+   "left": 0.0,
+   "overseas": 8,
+   "strength": 665.4,
+   "legal_xi": true,
+   "roles": {
+    "Batter": 5,
+    "Wicketkeeper": 4,
+    "All-rounder": 4,
+    "Pace": 5,
+    "Spin": 2
+   },
+   "players": [
+    {
+     "name": "Rinku Singh",
+     "role": "Batter",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 18.0,
+     "rating": 69.4,
+     "in_xi": true
+    },
+    {
+     "name": "Jos Buttler",
+     "role": "Wicketkeeper",
+     "subtype": "Spin",
+     "country": "England",
+     "overseas": true,
+     "price": 16.0,
+     "rating": 75.7,
+     "in_xi": true
+    },
+    {
+     "name": "Shashank Singh",
+     "role": "Batter",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 15.0,
+     "rating": 68.5,
+     "in_xi": true
+    },
+    {
+     "name": "Vaibhav Suryavanshi",
+     "role": "Batter",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 14.1,
+     "rating": 77.6,
+     "in_xi": true
+    },
+    {
+     "name": "Matheesha Pathirana",
+     "role": "Bowler",
+     "subtype": "Pace",
+     "country": "Sri Lanka",
+     "overseas": true,
+     "price": 12.0,
+     "rating": 58.1,
+     "in_xi": false
+    },
+    {
+     "name": "Quinton De Kock",
+     "role": "Wicketkeeper",
+     "subtype": null,
+     "country": "South Africa",
+     "overseas": true,
+     "price": 10.0,
+     "rating": 67.8,
+     "in_xi": true
+    },
+    {
+     "name": "David Miller",
+     "role": "Batter",
+     "subtype": null,
+     "country": "South Africa",
+     "overseas": true,
+     "price": 9.1,
+     "rating": 66.5,
+     "in_xi": true
+    },
+    {
+     "name": "Tim David",
+     "role": "All-rounder",
+     "subtype": "Spin",
+     "country": "Australia",
+     "overseas": true,
+     "price": 8.0,
+     "rating": 71.5,
+     "in_xi": true
+    },
+    {
+     "name": "Vijayakanth Viyaskanth",
+     "role": "Bowler",
+     "subtype": "Spin",
+     "country": "Sri Lanka",
+     "overseas": true,
+     "price": 4.65,
+     "rating": 53.9,
+     "in_xi": false
+    },
+    {
+     "name": "Arshdeep Singh",
+     "role": "Bowler",
+     "subtype": "Pace",
+     "country": "India",
+     "overseas": false,
+     "price": 4.5,
+     "rating": 47.8,
+     "in_xi": true
+    },
+    {
+     "name": "Pathum Nissanka",
+     "role": "Batter",
+     "subtype": "Spin",
+     "country": "Sri Lanka",
+     "overseas": true,
+     "price": 4.15,
+     "rating": 56.8,
+     "in_xi": false
+    },
+    {
+     "name": "Spencer Johnson",
+     "role": "Bowler",
+     "subtype": "Pace",
+     "country": "Australia",
+     "overseas": true,
+     "price": 3.0,
+     "rating": 52.3,
+     "in_xi": false
+    },
+    {
+     "name": "Anuj Rawat",
+     "role": "Wicketkeeper",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 2.1,
+     "rating": 46.2,
+     "in_xi": false
+    },
+    {
+     "name": "Upendra Singh Yadav",
+     "role": "Wicketkeeper",
+     "subtype": null,
+     "country": "India",
+     "overseas": false,
+     "price": 1.5,
+     "rating": 39.4,
+     "in_xi": false
+    },
+    {
+     "name": "Avesh Khan",
+     "role": "Bowler",
+     "subtype": "Pace",
+     "country": "India",
+     "overseas": false,
+     "price": 1.4,
+     "rating": 40.0,
+     "in_xi": false
+    },
+    {
+     "name": "Prerak Mankad",
+     "role": "All-rounder",
+     "subtype": "Pace",
+     "country": "India",
+     "overseas": false,
+     "price": 0.3,
+     "rating": 40.3,
+     "in_xi": true
+    },
+    {
+     "name": "Ninad Rathva",
+     "role": "All-rounder",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 0.3,
+     "rating": 40.3,
+     "in_xi": false
+    },
+    {
+     "name": "Ishan Porel",
+     "role": "Bowler",
+     "subtype": "Pace",
+     "country": "India",
+     "overseas": false,
+     "price": 0.3,
+     "rating": 40.2,
+     "in_xi": true
+    },
+    {
+     "name": "Mayank Markande",
+     "role": "Bowler",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 0.3,
+     "rating": 40.1,
+     "in_xi": true
+    },
+    {
+     "name": "Shams Mulani",
+     "role": "All-rounder",
+     "subtype": "Spin",
+     "country": "India",
+     "overseas": false,
+     "price": 0.3,
+     "rating": 40.1,
+     "in_xi": false
+    }
+   ]
+  }
+ ]
+}

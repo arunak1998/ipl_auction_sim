@@ -1,0 +1,62 @@
+{
+  "csk": {
+    "avg_reward": 136.73272727272723,
+    "avg_squad": 20.0,
+    "avg_budget_left": 5.262000000000006,
+    "avg_xi_strength": 66.73272727272727
+  },
+  "mi": {
+    "avg_reward": 136.4309090909091,
+    "avg_squad": 20.0,
+    "avg_budget_left": 5.367999999999997,
+    "avg_xi_strength": 66.4309090909091
+  },
+  "rcb": {
+    "avg_reward": 138.88727272727274,
+    "avg_squad": 20.0,
+    "avg_budget_left": 31.387999999999995,
+    "avg_xi_strength": 68.88727272727273
+  },
+  "kkr": {
+    "avg_reward": 139.15454545454546,
+    "avg_squad": 20.0,
+    "avg_budget_left": 25.137999999999998,
+    "avg_xi_strength": 69.15454545454546
+  },
+  "srh": {
+    "avg_reward": 138.24545454545455,
+    "avg_squad": 19.8,
+    "avg_budget_left": 16.977999999999998,
+    "avg_xi_strength": 68.94545454545455
+  },
+  "rr": {
+    "avg_reward": 138.44727272727272,
+    "avg_squad": 19.8,
+    "avg_budget_left": 18.535999999999994,
+    "avg_xi_strength": 69.14727272727274
+  },
+  "dc": {
+    "avg_reward": 137.74545454545458,
+    "avg_squad": 19.6,
+    "avg_budget_left": 41.696000000000005,
+    "avg_xi_strength": 69.14545454545456
+  },
+  "pbks": {
+    "avg_reward": 138.6090909090909,
+    "avg_squad": 19.8,
+    "avg_budget_left": 23.059999999999995,
+    "avg_xi_strength": 69.3090909090909
+  },
+  "gt": {
+    "avg_reward": 135.07999999999998,
+    "avg_squad": 19.4,
+    "avg_budget_left": 17.123999999999995,
+    "avg_xi_strength": 67.17999999999999
+  },
+  "lsg": {
+    "avg_reward": 135.51090909090908,
+    "avg_squad": 19.4,
+    "avg_budget_left": 2.4060000000000006,
+    "avg_xi_strength": 67.61090909090909
+  }
+}

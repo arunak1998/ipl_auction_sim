@@ -12,7 +12,7 @@ export default function SquadModal({ team, onClose }: SquadModalProps) {
 
   if (!team) return null;
 
-  const totalSpent = 100.0 - team.budget;
+  const totalSpent = 125.0 - team.budget;
   const avgRating = team.squad.length > 0 
     ? (team.squad.reduce((acc, current) => acc + current.player.rating, 0) / team.squad.length).toFixed(1)
     : '0.0';
@@ -22,7 +22,10 @@ export default function SquadModal({ team, onClose }: SquadModalProps) {
     'Batsman': team.squad.filter(p => p.player.role === 'Batsman'),
     'Wicketkeeper': team.squad.filter(p => p.player.role === 'Wicketkeeper'),
     'All-Rounder': team.squad.filter(p => p.player.role === 'All-Rounder'),
-    'Bowler': team.squad.filter(p => p.player.role === 'Fast Bowler' || p.player.role === 'Spin Bowler'),
+    // Split, now that bowler_subtype is real data rather than a guess --
+    // "4 bowlers" hides whether a squad has any spin at all.
+    'Fast Bowler': team.squad.filter(p => p.player.role === 'Fast Bowler'),
+    'Spin Bowler': team.squad.filter(p => p.player.role === 'Spin Bowler'),
     'Uncapped': team.squad.filter(p => p.player.role === 'Uncapped'),
   };
 

@@ -12,6 +12,10 @@ export interface Player {
   age?: number;
   battingStyle?: string;
   bowlingStyle?: string;
+  /** What the trained XGBoost price model predicts this player is worth. */
+  fairPrice?: number;
+  /** False when value_score is a flat default, not a measured career record. */
+  ratingIsReal?: boolean;
 }
 
 export interface PlayerBidInfo {

@@ -1,0 +1,63 @@
+auction_name,registry_name,player_id,tier,evidence
+Rohit Sharma,RG Sharma,740742ef,B-manual,India/Batter; exact-name rows are a blank-country Bowler + Indonesia Batter
+Suryakumar Yadav,SA Yadav,271f83cd,B-manual,India/Batter; SU Yadav is blank-country
+Karn Sharma,KV Sharma,119678fd,B-manual,India/All-rounder = Karn Vinay Sharma
+Andre Russell,AD Russell,bbd41817,B-manual,West Indies/All-rounder = Andre Dwayne
+James Anderson,JM Anderson,d12143bf,B-manual,England/Bowler = James Michael
+Kusal Perera,MDKJ Perera,f21043a5,B-manual,Sri Lanka/Wicketkeeper - role+country exact
+Varun Chakaravarthy,CV Varun,5b7ab5a9,B-manual,India/Bowler; surname-first name order
+Rasikh Dar,Rasikh Salam,b8527c3d,B-manual,Bowler; Rasikh Salam Dar
+Lahiru Kumara,CBRLS Kumara,,B-manual,Sri Lanka pacer; confirm id in registry
+Junior Dala,CJ Dala,,B-manual,South Africa; Chase Junior Dala
+Dushan Hemantha,MADI Hemantha,,B-manual,Sri Lanka all-rounder
+Sarfaraz Khan,SF Khan,,B-manual,India; Sarfaraz Naushad Khan
+Shahrukh Khan,M Shahrukh Khan,7dcb9bc9,B-manual,Batter; TN all-rounder
+Upendra Singh Yadav,Upendra Yadav,,B-manual,99% name match
+Rinku Singh,RK Singh,,B-manual,Rinku Khanchandra Singh
+Jitesh Sharma,JM Sharma,800d2d97,B-manual,India/Wicketkeeper - role exact
+Zahir Khan Pakten,Zahir Khan,,B-manual,Afghanistan spinner
+Quinton De Kock,Q de Kock,372455c4,B-manual,SA/Wicketkeeper exact
+Leus Du Plooy,JL du Plooy,,B-manual,Jacobus Leus du Plooy
+Rassie Van Der Dussen,HE van der Dussen,,B-manual,Hendrik Erasmus
+Gus Atkinson,AAP Atkinson,,B-manual,England; Angus Atkinson
+Mayank Agarawal,MA Agarwal,,B-manual,spelling variant
+Prayas Ray Barman,P Ray Barman,,B-manual,multi-token surname
+Ajitesh Guruswamy,G Ajitesh,,B-manual,name order reversed
+Prithviraj Yarra,Y Prithvi Raj,,B-manual,name order reversed
+Shrijith Krishnan,K L Shrijith,,B-manual,name order reversed
+Abdul Samad,Abdul Samad,8e514b4c,B-manual,blank-country Batter (India); other rows Japan/Pakistan
+Abhishek Nair,AJ Nair,4ba2c04d,A-auto,"AJ+surname, first-initial"
+Anukul Roy,AS Roy,e4cdf230,A-auto,"AS+surname, first-initial"
+Ben Howell,BAC Howell,0bec3a6c,A-auto,"BAC+surname, first-initial"
+Digvijay Deshmukh,DR Deshmukh,ddc7a53d,A-auto,"DR+surname, first-initial"
+Dinesh Bana,DB Bana,224fe44d,A-auto,"DB+surname, first-initial"
+Gurnoor Singh Brar,Gurnoor Brar,99258814,A-auto,full first+surname
+Hilton Cartwright,HWR Cartwright,ab965cad,A-auto,"HWR+surname, first-initial"
+Jalaj Saxena,Jalaj S Saxena,249abedf,A-auto,full first+surname
+Karun Nair,KK Nair,944533a5,A-auto,"KK+surname, first-initial"
+Kuldeep Sen,KR Sen,2e78f685,A-auto,"KR+surname, first-initial"
+Liam Livingstone,LS Livingstone,50c6bc2b,A-auto,"LS+surname, first-initial"
+Mitchell Marsh,MR Marsh,3d8feaf8,A-auto,"MR+surname, first-initial"
+Ollie Pope,OJ Pope,e94bc520,A-auto,"OJ+surname, first-initial"
+Priyam Garg,PK Garg,bb965e9a,A-auto,"PK+surname, first-initial"
+Ricky Bhui,RK Bhui,b63e358a,A-auto,"RK+surname, first-initial"
+Rilee Rossouw,RR Rossouw,cad00a4d,A-auto,"RR+surname, first-initial"
+Sanju Samson,SV Samson,a4cc73aa,A-auto,"SV+surname, first-initial"
+Unmukt Chand,UBT Chand,0c94f480,A-auto,"UBT+surname, first-initial"
+Abid Mushtaq,Abid Mushtaq,b10e8c85,A-auto,exact
+Arshin Kulkarni,AA Kulkarni,2d140b79,A-auto,"AA+surname, first-initial"
+Axar Patel,AR Patel,2e171977,A-auto,"AR+surname, first-initial"
+Deepak Chahar,DL Chahar,23eeb873,A-auto,"DL+surname, first-initial"
+Divesh Sharma,DK Sharma,cca4633d,A-auto,"DK+surname, first-initial"
+Duan Jansen,D Jansen,8dc152d1,A-auto,"D+surname, first-initial"
+Hardik Pandya,HH Pandya,dbe50b21,A-auto,"HH+surname, first-initial"
+Jhye Richardson,JA Richardson,1ee08e9a,A-auto,"JA+surname, first-initial"
+Kritagya Singh,KR Singh,fe608a7e,A-auto,"KR+surname, first-initial"
+Matthew Short,MW Short,a90e53ec,A-auto,"MW+surname, first-initial"
+Mayank Yadav,MP Yadav,b1ad996b,A-auto,"MP+surname, first-initial"
+Mohsin Khan,Mohsin Khan,c33d8116,A-auto,exact
+Prabhsimran Singh,PM Singh,c5680204,A-auto,"PM+surname, first-initial"
+Prateek Yadav,PR Yadav,6223636a,A-auto,"PR+surname, first-initial"
+Ravi Kumar,R Kumar,aba0f4a9,A-auto,"R+surname, first-initial"
+Umang Kumar,UR Kumar,2fda74a2,A-auto,"UR+surname, first-initial"
+Umesh Yadav,UT Yadav,cc1e8c68,A-auto,"UT+surname, first-initial"
